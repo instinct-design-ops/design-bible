@@ -32,6 +32,10 @@ The working rules for how we design ads. Every entry is dated because styles exp
 
 - 23 Nov 2026, 1:43am. Full editability is a hard rule (Shresht: "every ad board makes it. It should be editable"): every ad must be fully editable in Figma, with real text layers and separate logo, product and background layers. Nothing is flattened into an image.
 
+- 23 Nov 2026, 2:40am. One visual per ad. All four canvases of one ad (V1 1x1, V1 9x16, V2 1x1, V2 9x16) use the same visual and layout; V2 changes only the copy. Variation happens between ads, never inside one ad. Shresht: "There is to be no variation made in the visual of the second variation. The only thing that needs to be changed is the text." Build V1, clone it for V2, swap headline, body and CTA, and re-fit the type to the new copy.
+
+- 23 Nov 2026. When Shresht edits a frame himself, diff it against the build (sizes, positions, line breaks, gaps, alignments), work out why he made each change, mirror it on the other ratio and the other version, and log the lesson here.
+
 ## Rejected directions
 
 Each entry shows what was made, his note, and the rule it leaves behind. These are do-not-repeat records, not drafts to revive.
@@ -78,6 +82,18 @@ The four rebuilt frames as delivered for review, 21 Nov 2026. Rejected as a dire
 
 *Visual reference retained in the internal Design Bible; not included in this public copy.*
 
+### 4. Alpha One batch 2 ad 01 "Inspection Booth", review comments, 23 Nov 2026, 2:38-2:40am
+
+What was made: a glass vial on the seam between a matte white and a matte black inspection panel. V1 had a black top band with white type and a red key phrase; V2 had a white top with black type and a different close-up crop. Each was built in 1x1 and 9x16 as separate editable layers.
+
+His notes (Figma comments) and the rule each one leaves:
+
+- "Change this text to white... The red is not matching with the background. It's not feeling like a really present-to-eye contrast." Rule: on dark or black grounds the whole headline is white.
+- "The background behind the logo is a bit dark, so the logo is a bit merging in that... make that part of the background white." Rule: sample the ground behind the logo; brighten any falloff to clean white.
+- "We don't want to show liquid in vials." Rule: vials are empty, or hold fine sand-like powder filling about 10% from the bottom.
+- "The visuals of all four canvases of the same ad should be the same." Rule: one visual per ad; V2 changes only the text (see Standing workflow rules).
+- "See the changes I did here... Take notes for the future and do the same changes on the resize 9:16 ratio." He re-laid V1 1x1 by hand; the lessons are under Layout design rules, "From his own edit".
+
 ## Lucori brand facts
 
 Read from the client's file, 20 Nov 2026. These are the brand's own constraints and hold independent of any rejected composition.
@@ -97,6 +113,12 @@ Read from the client's file, 20 Nov 2026. These are the brand's own constraints 
 - Disclaimer microcopy sits at the bottom edge, per the MPS, on medical assets.
 
 ## Tool stack
+
+- 23 Nov 2026, 2:20am. Image budget (Shresht: "We want a really minimum ad spend"). At most 2 generated images per ad; clean plates, re-rolls and higher-res re-renders all count. Plan one wide render per ad and crop it for 1:1 and 9:16. Never regenerate without first showing him the concept and getting a yes. After each ad, report that ad's image count and the batch total. Why: Alpha One ad 01 used 8 Gemini 3 Pro Image calls (4 unused 2K scenes, 2 wide 4K renders, 2 4K clean plates).
+
+- 23 Nov 2026. Alpha One visuals (his session rule): Gemini generates only the visual - product, scene, background - never text, logos, buttons or UI. Copy, CTA and logo are editable Figma layers. For Alpha One this replaces the Magnific route below until he says otherwise.
+
+- 23 Nov 2026. Gemini 3 Pro Image centres the product and ignores percentage layout instructions. Render wide with the product centred and empty set around it, then crop each ratio. Do cutouts and background fixes locally, not by regenerating.
 
 - 23 Nov 2026. Image generation routing. Roveir (RV agency) client jobs - a Roveir brief or MPS, or a Roveir client such as Alpha One Labs - use the Magnific connector once it is connected; until it is, ask Shresht first. His own work (brand, X, portfolio, KDP) generates with the Gemini API via GEMINI_API_KEY, and upscales only on a free Magnific account if it works. If it is unclear which route applies, ask before generating.
 
@@ -145,6 +167,14 @@ Added 21 Nov 2026. Open these links alongside the approved-direction notes above
 - 21 Nov 2026. Alpha One Labs batch 2 review anchors: he liked the black-background ad with the red 3D sphere behind the vial, and the full-red ad with the text inside the image. He rejected the off-white centered statement layout and the plain white / lab-photo layouts as too basic. Use these as direction anchors for batch 2 work.
 
 - 21 Nov 2026. Alpha One Labs (client file: Alpha 1 labs in Figma, page 1 holds batch 1): brand colors are red, black and white; headline in heavy uppercase sans with a red key phrase; serif body; black CTA with an arrow; the real wolf and DNA logo. Vials on research-use-only brands carry plain blank white labels, never branded or with added text. Match batch 1 colors, fonts and spacing, a bit more minimal. No humans, hands included.
+
+- 23 Nov 2026. Vials never show liquid. A vial is either empty or holds fine sand-like powder filling about 10% of the vial from the bottom. Put this in every render prompt and check every vial image for a fill line before it ships. (Shresht, Alpha One ad 01 review.)
+
+- 23 Nov 2026. Headlines on dark or black grounds go all white. The red key phrase is for light grounds only; red on black is "not a present-to-eye contrast". This extends the 21 Nov type-on-red rule.
+
+- 23 Nov 2026. The logo sits on clean, bright ground. If the photo falls off to grey behind it, brighten that part of the background to white.
+
+- 23 Nov 2026. Clarification of the 21 Nov working principle: "one template looks lazy" applies between different ads. The V1 and V2 of one ad share the same visual (Standing workflow rules).
 
 ## 21 Nov 2026, 3:42am. Mesh gradient (soft blurred multi-color blobs: coral, lavender, pale pink, brand orange, per the avatar style he approved) is a standing brand signature for Shresht's own brand. Integrate it into every design we make for him: X post mockups, templates, everything.
 
@@ -196,6 +226,18 @@ Added 21 Nov 2026. Open these links alongside the approved-direction notes above
 
 - 23 Nov 2026. One dominant element per frame, clearly the biggest: the headline or the visual, not both fighting. If two elements compete for first place, one of them shrinks.
 - 23 Nov 2026. The scan order is designed, not accidental: headline first, then the visual, then the subline, then the CTA and logo. Check with a 2-second flash test: show the frame briefly and confirm what was read first.
+
+### From his own edit of Alpha One ad 01 (23 Nov 2026)
+
+Shresht re-laid the ad 01 V1 1x1 frame by hand and asked for the same changes on the 9:16. Measured against the build, on a 1080 px frame:
+
+- 23 Nov 2026. Headline size 80 to 107 px, spanning about 76% of the frame width (820 px). The headline is the dominant mass, not a polite caption.
+- 23 Nov 2026. Outer margin 108 to 48 px on 1:1. On 9:16, 65 px, to respect the Reels side safe zone.
+- 23 Nov 2026. Line break "THE DETAILS SET / THE STANDARD.": near-equal lines forming one solid block, with the key phrase kept whole on its own line.
+- 23 Nov 2026. Body 32 to 34 px. Gaps between groups opened up: headline to body 24 to 50 px, body to CTA 32 to 88 px, so each group reads on its own.
+- 23 Nov 2026. CTA scaled up about 8% and moved onto the white panel. A black CTA reads strongest on white ground.
+- 23 Nov 2026. Product scaled 1.56x from its base for presence, with its right edge on exactly the same line as the headline's right edge. Product and type share an edge.
+- 23 Nov 2026. When the second version's copy is longer, shrink its headline so the widest line hits the same measure. Keep every position and the visual identical.
 
 ### Agency layout study: Subyect + Roveir/Roveia Health (research, 23 Nov 2026)
 
@@ -263,6 +305,14 @@ Ads that carry the whole message through layout and type alone, with why they wo
 - More typography-led references: themuseumofads.com/technique/typography-led
 
 ## Changelog
+
+- 23 Nov 2026, 2:40am. Alpha One ad 01 review logged (Rejected directions, entry 4):
+  - Headlines on dark grounds go all white.
+  - The logo sits on clean white.
+  - Vials never show liquid (empty or about 10% powder).
+  - One visual per ad, with only the copy changing between V1 and V2.
+  - Layout lessons from his own edit (bigger headline, 48 px margin, 50/88 px group gaps, CTA on white, bigger product on a shared edge).
+  - The image budget: 2 images per ad, concept shown before any regeneration, counts reported per ad.
 
 - 23 Nov 2026, 1:50am. Agency layout study revised after a broader pass over about 90 ads across all Subyect projects and every Roveir/Roveia case study: TrimRx-based examples dropped (Shresht disliked the TrimRx ad), and new layout devices added (flowchart-as-layout, radial wheel, mirrored split, panel split, timeline, off-canvas grid crop, screenshot hero, conceptual prop). The 8 strongest frames are committed as images under references/ and linked from the study (Shresht, 23 Nov 2026 1:52am: "Add these in the design bible for visual reference. These are really good").
 
