@@ -195,6 +195,32 @@ Added 21 Nov 2026. Open these links alongside the approved-direction notes above
 - 23 Nov 2026. One dominant element per frame, clearly the biggest: the headline or the visual, not both fighting. If two elements compete for first place, one of them shrinks.
 - 23 Nov 2026. The scan order is designed, not accidental: headline first, then the visual, then the subline, then the CTA and logo. Check with a 2-second flash test: show the frame briefly and confirm what was read first.
 
+### Agency layout study: Subyect + Roveia Health (research, 23 Nov 2026)
+
+Studied Subyect's public ad wall (subyect.com) and Roveia Health's case studies (roveia.com, the Roveir health arm), 23 Nov 2026, on Shresht's request. Recurring layout moves worth borrowing, each with where it was seen:
+
+- 23 Nov 2026. UI mimicry as layout: fake chat bubbles, comment sheets, iOS toggles and review cards carry the copy, and the UI's own grid is the layout grid (Subyect: BlocOut chat bubbles, BlocOut comments ad, Hears review card).
+
+- 23 Nov 2026. One headline device per ad: a marker highlight, a color swap or one italic serif accent word, never all three at once (Subyect Hears "ADHD" highlight; Roveia Wellvia color-split headline).
+
+- 23 Nov 2026. Serif carries emotion, sans carries information: display serif or condensed uppercase for the headline, small sans for support copy, pill shape for the CTA (seen across both agencies).
+
+- 23 Nov 2026. Benefits go in pill chips, 2-3 max, in one row or a loose stack, never as a typed bullet list (Subyect Hears chips and BlocOut toggle rows; eclat floating pills).
+
+- 23 Nov 2026. Strikethrough marks the old: old price or old state struck through beside the new, in a two-column comparison or price card (Roveia TrimRx price card, Verve old-me/new-me list).
+
+- 23 Nov 2026. Corner framing: product cropped at opposite corners or propped at frame edges, leaving the center for the text stack (Roveia Graymatter strawberry/tangerine frame).
+
+- 23 Nov 2026. Center-axis ads stay centered end to end: rating line, headline, product, chips and CTA all share one vertical axis; floating pills alternate left-right but stay on the same invisible rails (Subyect eclat).
+
+- 23 Nov 2026. Echo typography for depth: the headline repeated as outlines behind the product, with the product breaking the type plane (Subyect Snoozeless).
+
+- 23 Nov 2026. One accent color, spent at most twice: the CTA pill and one headline word or an offer bar. Everything else stays in brand neutrals (Roveia TrimRx yellow CTA, Subyect BlocOut orange benefit bar).
+
+- 23 Nov 2026. The product gets a stage: a pedestal, soft shadow or gradient ground, never floating raw on the background (Subyect Hears pedestal, Roveia TrimRx vials on a gradient disc).
+
+Sources: subyect.com ad wall and project sections; roveia.com case studies (Graymatter, TrimRx, Wellvia, Verve). Best example frames sent to Shresht with this study, 23 Nov 2026.
+
 ### Layout-only ads that work (research, 23 Nov 2026)
 
 Ads that carry the whole message through layout and type alone, with why they work:
@@ -207,6 +233,8 @@ Ads that carry the whole message through layout and type alone, with why they wo
 - More typography-led references: themuseumofads.com/technique/typography-led
 
 ## Changelog
+
+- 23 Nov 2026. Agency layout study added under Layout design rules: recurring layout moves from Subyect's ad wall and Roveia Health case studies. (Entry: Agency layout study.)
 
 - 23 Nov 2026. Layout design rules section added after his review of Claude's Alpha One Labs ad (layout not balanced, logo placement poor): grid, balance and visual weight, logo placement, text block alignment, whitespace, uniform heading and subline line breaks with no orphan words, and hierarchy, plus layout-only ad examples with why they work.
 
