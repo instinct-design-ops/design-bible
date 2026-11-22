@@ -255,6 +255,7 @@ Added 21 Nov 2026. Open these links alongside the approved-direction notes above
 
 - 23 Nov 2026. One dominant element per frame, clearly the biggest: the headline or the visual, not both fighting. If two elements compete for first place, one of them shrinks.
 - 23 Nov 2026. The scan order is designed, not accidental: headline first, then the visual, then the subline, then the CTA and logo. Check with a 2-second flash test: show the frame briefly and confirm what was read first.
+- 23 Nov 2026, from Shresht. Thumbnail test, a hard QC rule: shrink every export to about 20% (216 px wide for a 1080 px frame). The headline must still read and the product must still be recognisable; if either fails, the frame fails. Fix it with size, contrast or simplification, never by cutting brief copy. It applies to all ads and their resizes, and to his own brand graphics.
 
 ### From his own edit of Alpha One ad 01 (23 Nov 2026)
 
@@ -354,6 +355,8 @@ Studied a 5-slide Instagram carousel by @joshuaseage (15 Nov 2026, about 12k lik
 - 23 Nov 2026. Reading results: judge a static's creative by link CTR, not CTR (all), and judge the campaign by its goal. When frequency rises while CTR falls, refresh the visual or layout first and keep the winning hook.
 
 ## Changelog
+
+- 23 Nov 2026. Thumbnail test made a hard QC rule (Hierarchy): at about 20% size the headline must read and the product must be recognisable, or the frame fails.
 
 - 23 Nov 2026. Meta platform facts added under Layout design rules (safe zone in numbers, 4:5 feed ratio, creative diversity, text readability, reading CTR and fatigue). Researched for the LinkedIn posts and now applied to all ad design.
 
