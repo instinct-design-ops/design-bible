@@ -331,7 +331,19 @@ Ads that carry the whole message through layout and type alone, with why they wo
 - Got Milk?: one short line in a heavy, iconic sans on an all-white ground, readable in a glance. Lesson: a single short message, set huge and centered, needs nothing else. Source: clutch.co/resources/typographic-ad
 - More typography-led references: themuseumofads.com/technique/typography-led
 
+### Carousel study: @joshuaseage TV home-screen launch (research, 23 Nov 2026)
+
+Studied a 5-slide Instagram carousel by @joshuaseage (15 Nov 2026, about 12k likes and 9.5k comments in a week; public post: instagram.com/p/DfvtVeklL3J/) promoting a free, open-source, Claude-built TV home screen. Reference for series and carousel-format statics and for Shresht's own content.
+
+- 23 Nov 2026. One idea per slide, in plain spoken language: each slide carries a single claim and the caption repeats the same story. The slides and the caption never say two different things.
+- 23 Nov 2026. White headline on black ground: a huge, tight white sans headline top-left on a black background, with exactly one screenshot or UI mock per frame (Apple-keynote register).
+- 23 Nov 2026. Before/after is the proof: cluttered before against clean after, with a red annotation box drawn on the exact spot the viewer should look at. The annotation does the directing, not the copy.
+- 23 Nov 2026. Keyword-comment CTA: "Comment COUCH and I'll send you the link" turns intent into comments the algorithm rewards (about 9.5k on this post). Use on his own content for distribution.
+- 23 Nov 2026. Remove every objection on the CTA slide: "free and open source" plus reversible ("undo takes about 10 seconds") answers cost and risk before they are raised, with supported platforms listed.
+
 ## Changelog
+
+- 23 Nov 2026, 4:20am. Carousel study added under Layout design rules (@joshuaseage TV home-screen launch): one idea per slide in plain language, white headline on black ground, one visual per frame, before/after with a red annotation callout, keyword-comment CTA, free-and-reversible objection removal. Synced from the Design Bible doc.
 
 - 23 Nov 2026, 4:11am. Formatting cleanup: the mesh gradient signature and the no-pronoun copy rule are bullets under Other brand rules instead of headings. The same cleanup in the Design Bible doc also turned its 22 Nov pipeline rules and product-lock entries back into normal bullets, and moved four rules that sat at the end of its changelog into their sections, matching this copy.
 
