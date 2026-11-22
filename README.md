@@ -1,6 +1,6 @@
 # Design Bible
 
-Design rules and dated style notes for Shresht's ad design workflow. Read [AGENTS.md](AGENTS.md) before starting design work. Newer dated decisions replace older conflicting entries.
+Design rules and dated style notes for Shresht's ad design workflow. Read [design-bible.md](design-bible.md) before starting design work. Newer dated decisions replace older conflicting entries.
 
 ## Public copy
 
@@ -10,6 +10,6 @@ Keep client names and design rules. Omit account emails, credentials, private cl
 
 ## Use
 
-Clone this repository once. Pull the latest changes before a new batch, then have the design assistant read AGENTS.md.
+Clone this repository once. Pull the latest changes before a new batch, then have the design assistant read design-bible.md.
 
 This repository contains workflow guidance and references, not a license to reuse client assets.
