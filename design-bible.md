@@ -112,6 +112,16 @@ His notes (Figma comments) and the rule each one leaves:
 - "The visuals of all four canvases of the same ad should be the same." Rule: one visual per ad; V2 changes only the text (see Standing workflow rules).
 - "See the changes I did here... Take notes for the future and do the same changes on the resize 9:16 ratio." He re-laid V1 1x1 by hand; the lessons are under Layout design rules, "From his own edit".
 
+### 5. Alpha One batch 2 ads 02 and 05, readability comments, 23 Nov 2026, 4:54am
+
+What was made: ad 02, a glass vial in an infinity mirror of receding vial rows on black, with a white headline and a thin serif body set just above the rows; ad 05, three vials rising on stone and red plinths against a cream wall crossed by a hard window-shadow band, with the black-and-red headline and dark serif body on the left. Both frames had passed a contrast-ratio check.
+
+His notes (Figma comments) and the rule each one leaves:
+
+- Ad 05: "Readability issue because of the shadow behind the text and the visual." Rule: no shadow band, light streak or tonal edge runs through the ground under any text block, or behind the product. Fixed by relighting the plate locally: the shadow lifted to the lit-wall colour, the plaster grain kept, and what shows through the glass vial shifted by the same amount.
+- Ad 02: "Text readability issue." Rule: thin serif body never sits on glowing or busy shapes, even on a dark ground. Fixed with an editable gradient scrim layer between the background and the product, holding the copy zone near black and fading out above the hero vial.
+- Together: a contrast ratio alone does not clear a frame. Look at the ground under every text block for edges, streaks and glow, and plan the copy zone in the render itself.
+
 ## Lucori brand facts
 
 Read from the client's file, 20 Nov 2026. These are the brand's own constraints and hold independent of any rejected composition.
@@ -355,6 +365,8 @@ Studied a 5-slide Instagram carousel by @joshuaseage (15 Nov 2026, about 12k lik
 - 23 Nov 2026. Reading results: judge a static's creative by link CTR, not CTR (all), and judge the campaign by its goal. When frequency rises while CTR falls, refresh the visual or layout first and keep the winning hook.
 
 ## Changelog
+
+- 23 Nov 2026, 5:20am. Alpha One batch 2 readability review logged (Rejected directions, entry 5): no shadow band, streak or glow behind any text block or the product, even when the contrast ratio passes; fix with a local relight of the plate or an editable gradient scrim; plan the copy zone in the render.
 
 - 23 Nov 2026. Thumbnail test made a hard QC rule (Hierarchy): at about 20% size the headline must read and the product must be recognisable, or the frame fails.
 
