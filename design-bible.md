@@ -194,9 +194,9 @@ Added 21 Nov 2026. Open these links alongside the approved-direction notes above
 
 - 23 Nov 2026. Clarification of the 21 Nov working principle: "one template looks lazy" applies between different ads. The V1 and V2 of one ad share the same visual (Standing workflow rules).
 
-## 21 Nov 2026, 3:42am. Mesh gradient (soft blurred multi-color blobs: coral, lavender, pale pink, brand orange, per the avatar style he approved) is a standing brand signature for Shresht's own brand. Integrate it into every design we make for him: X post mockups, templates, everything.
+- 21 Nov 2026, 3:42am. Mesh gradient (soft blurred multi-color blobs: coral, lavender, pale pink, brand orange, per the avatar style he approved) is a standing brand signature for Shresht's own brand. Integrate it into every design we make for him: X post mockups, templates, everything.
 
-## 21 Nov 2026, from Shresht. Copy rule for videos and ads: no pronouns anywhere in video scripts or ad copy - never "we", "us", "he", "him", "they", "them", or "I". CTA style is bare imperative, e.g. "Need designs? DM or email."
+- 21 Nov 2026, from Shresht. Copy rule for videos and ads: no pronouns anywhere in video scripts or ad copy - never "we", "us", "he", "him", "they", "them", or "I". CTA style is bare imperative, e.g. "Need designs? DM or email."
 
 
 ## Client product locks and claims registers
@@ -332,6 +332,8 @@ Ads that carry the whole message through layout and type alone, with why they wo
 - More typography-led references: themuseumofads.com/technique/typography-led
 
 ## Changelog
+
+- 23 Nov 2026, 4:11am. Formatting cleanup: the mesh gradient signature and the no-pronoun copy rule are bullets under Other brand rules instead of headings. The same cleanup in the Design Bible doc also turned its 22 Nov pipeline rules and product-lock entries back into normal bullets, and moved four rules that sat at the end of its changelog into their sections, matching this copy.
 
 - 23 Nov 2026, 4:08am. Synced from the Design Bible doc: the 22 Nov standing pipeline rules (design-read receipt, craft floor, blind read-back, scale anchors, claims register, 2-pass generation budget, exact-size contract, weekly rule fold, and the supersession of the 21 Nov no-execution rule) and the Client product locks and claims registers section. The 2-pass budget, the exact-size contract's upscaler clause and the 21 Nov Gemini-for-everything line are marked replaced by the 23 Nov image budget and image generation routing. The Doc received the 23 Nov routing rule and the Alpha One ad 01 review entries in the same sync.
 
