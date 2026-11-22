@@ -198,6 +198,8 @@ Added 21 Nov 2026. Open these links alongside the approved-direction notes above
 
 - 21 Nov 2026, from Shresht. Copy rule for videos and ads: no pronouns anywhere in video scripts or ad copy - never "we", "us", "he", "him", "they", "them", or "I". CTA style is bare imperative, e.g. "Need designs? DM or email."
 
+- 23 Nov 2026, from Shresht. LinkedIn exception to the copy rule: his LinkedIn posts and captions use his own first-person voice ("I"). The no-pronoun rule still holds for ads, video scripts and other own-brand content. Never invent personal stories or results for him; use opinions and his real process.
+
 
 ## Client product locks and claims registers
 
@@ -342,6 +344,8 @@ Studied a 5-slide Instagram carousel by @joshuaseage (15 Nov 2026, about 12k lik
 - 23 Nov 2026. Remove every objection on the CTA slide: "free and open source" plus reversible ("undo takes about 10 seconds") answers cost and risk before they are raised, with supported platforms listed.
 
 ## Changelog
+
+- 23 Nov 2026. LinkedIn exception logged under Other brand rules: LinkedIn posts are written in first person; the no-pronoun rule stays for ads, video scripts and other own-brand content.
 
 - 23 Nov 2026, 4:20am. Carousel study added under Layout design rules (@joshuaseage TV home-screen launch): one idea per slide in plain language, white headline on black ground, one visual per frame, before/after with a red annotation callout, keyword-comment CTA, free-and-reversible objection removal. Synced from the Design Bible doc.
 
