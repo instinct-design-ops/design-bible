@@ -197,31 +197,59 @@ Added 21 Nov 2026. Open these links alongside the approved-direction notes above
 - 23 Nov 2026. One dominant element per frame, clearly the biggest: the headline or the visual, not both fighting. If two elements compete for first place, one of them shrinks.
 - 23 Nov 2026. The scan order is designed, not accidental: headline first, then the visual, then the subline, then the CTA and logo. Check with a 2-second flash test: show the frame briefly and confirm what was read first.
 
-### Agency layout study: Subyect + Roveia Health (research, 23 Nov 2026)
+### Agency layout study: Subyect + Roveir/Roveia Health (research, 23 Nov 2026)
 
-Studied Subyect's public ad wall (subyect.com) and Roveia Health's case studies (roveia.com, the Roveir health arm), 23 Nov 2026, on Shresht's request. Recurring layout moves worth borrowing, each with where it was seen:
+Studied about 90 ads across Subyect's public work (subyect.com ad wall and project sections) and Roveir's case studies (roveir.com/case-studies and roveia.com, the Roveir health arm): Blocout, Hears, Eclat, Mobile Vikings, Q-Park, Amacx, Samako and Son of John on Subyect; Graymatter, Wellvia, Verve, TrimRx, Odin, Neobanc, Traction K9 and Metatailor on Roveir. 23 Nov 2026, on Shresht's ask to understand layout. Revised the same day after the full pass across every case study: the TrimRx-style pharma layouts (coupon ticket, heavy serif price card) are the weak end of the set, and no rule below rests on them.
 
-- 23 Nov 2026. UI mimicry as layout: fake chat bubbles, comment sheets, iOS toggles and review cards carry the copy, and the UI's own grid is the layout grid (Subyect: BlocOut chat bubbles, BlocOut comments ad, Hears review card).
+- 23 Nov 2026. One structural idea per ad: the strongest ads commit to a single layout device (a wheel, a flowchart, a mirrored split, a panel) instead of the generic headline-photo-CTA stack. The weak ads in the set all share that default: top headline, middle photo, bottom pill.
 
-- 23 Nov 2026. One headline device per ad: a marker highlight, a color swap or one italic serif accent word, never all three at once (Subyect Hears "ADHD" highlight; Roveia Wellvia color-split headline).
+- 23 Nov 2026. Center axis with orbiting proof: product dead center; label pills, ingredients or stats float around it on implied rails or a circle (Subyect Mobile Vikings: floating label pills on rails around the phone; Roveir Graymatter: radial ingredient wheel, wedges around the bottle with monospace labels on the circle). The orbit turns specs into composition.
 
-- 23 Nov 2026. Serif carries emotion, sans carries information: display serif or condensed uppercase for the headline, small sans for support copy, pill shape for the CTA (seen across both agencies).
+  ![Mobile Vikings: floating label pills on rails around the product](references/mobile-vikings-pills-on-rails.png)
 
-- 23 Nov 2026. Benefits go in pill chips, 2-3 max, in one row or a loose stack, never as a typed bullet list (Subyect Hears chips and BlocOut toggle rows; eclat floating pills).
+  ![Graymatter: radial ingredient wheel, wedges around the pack](references/graymatter-ingredient-wheel.png)
 
-- 23 Nov 2026. Strikethrough marks the old: old price or old state struck through beside the new, in a two-column comparison or price card (Roveia TrimRx price card, Verve old-me/new-me list).
+- 23 Nov 2026. A diagram can be the whole layout: Subyect Q-Park runs a decision flowchart down the frame and the green outcome box doubles as the CTA; Roveia Verve's weight-loss ad is a three-step vertical timeline with numbered cards alternating sides. The process itself becomes the layout.
 
-- 23 Nov 2026. Corner framing: product cropped at opposite corners or propped at frame edges, leaving the center for the text stack (Roveia Graymatter strawberry/tangerine frame).
+  ![Q-Park: decision flowchart as the whole layout](references/q-park-flowchart.png)
 
-- 23 Nov 2026. Center-axis ads stay centered end to end: rating line, headline, product, chips and CTA all share one vertical axis; floating pills alternate left-right but stay on the same invisible rails (Subyect eclat).
+- 23 Nov 2026. Mirrored splits sell contrast: split the canvas and repeat the same module on each side - blurred competitor vs sharp product (Subyect Hears: label pill, star row and quote on each half), or old-me struck through vs new-me (Roveia Verve). Symmetry makes the comparison readable at a glance.
 
-- 23 Nov 2026. Echo typography for depth: the headline repeated as outlines behind the product, with the product breaking the type plane (Subyect Snoozeless).
+  ![Hears: mirrored split, blurred competitor vs sharp product](references/hears-mirrored-split.png)
 
-- 23 Nov 2026. One accent color, spent at most twice: the CTA pill and one headline word or an offer bar. Everything else stays in brand neutrals (Roveia TrimRx yellow CTA, Subyect BlocOut orange benefit bar).
+- 23 Nov 2026. Panel vs photo split, roughly 40/60: a flat-color text panel against a full-height lifestyle photo (Subyect Amacx: navy panel with headline, chips and CTA against the athlete shot). The panel informs, the photo feels.
 
-- 23 Nov 2026. The product gets a stage: a pedestal, soft shadow or gradient ground, never floating raw on the background (Subyect Hears pedestal, Roveia TrimRx vials on a gradient disc).
+  ![Amacx: flat-color text panel against a full-height photo](references/amacx-panel-split.png)
 
-Sources: subyect.com ad wall and project sections; roveia.com case studies (Graymatter, TrimRx, Wellvia, Verve). Best example frames sent to Shresht with this study, 23 Nov 2026.
+- 23 Nov 2026. Strikethrough marks the old: old price or old state struck through beside the new (Roveia Wellvia: $259 struck to $129.99; Roveia Verve: symptoms struck under old-me). The strike carries the comparison; no extra copy needed.
+
+- 23 Nov 2026. UI mimicry as layout: fake chat bubbles, comment sheets, iOS toggles, review cards and real screenshots (Google Maps route on Roveir Traction, export dialog on Roveir Metatailor) carry the copy, and the UI's own grid becomes the layout grid (Subyect Hears and Blocout).
+
+- 23 Nov 2026. One headline device per ad: a marker highlight, a color swap or one italic serif accent word, never all three at once (Subyect throughout).
+
+- 23 Nov 2026. Serif carries emotion, sans carries information: display serif or condensed uppercase for the headline, small sans for specs and labels (Roveir Graymatter mixes an italic serif word into a sans stack).
+
+- 23 Nov 2026. Benefits go in pill chips, 2-3 max, in one row or a loose stack, never as a typed bullet list (Subyect Hears chips and Blocout toggles).
+
+- 23 Nov 2026. Corner framing: product cropped at opposite corners or propped at frame edges, leaving the center for the text stack (Roveia Verve vials at the corners).
+
+- 23 Nov 2026. Echo typography for depth: the headline repeated as outlines behind the product, with the product breaking the type plane (Subyect Blocout).
+
+- 23 Nov 2026. One accent color, spent at most twice: the CTA pill and one headline word or an offer bar. Everything else stays in brand neutrals (Roveir Graymatter green; Roveir Neobanc pink on blue).
+
+- 23 Nov 2026. The product gets a stage: a pedestal, soft shadow, glow or ground plane, never floating raw on the background (Subyect Hears pedestal; Roveir Graymatter v9, where the ingredient cascade sits behind the headline and the product stands on a baseline).
+
+  ![Graymatter v9: center stage with a ground plane](references/graymatter-v9-center-stage.png)
+
+- 23 Nov 2026. Crop a repeatable module off-canvas: Roveir Odin bleeds a grid of integration logo cards off the bottom edge, implying an endless list; a partial grid reads bigger than a complete one.
+
+  ![Odin: integration card grid bleeding off the canvas edge](references/odin-off-canvas-grid.png)
+
+- 23 Nov 2026. Let one prop carry the concept: Roveia Wellvia's crossed-out syringe on foliage with a short headline and no feature list. A symbolic object plus a few words beats a spec sheet.
+
+  ![Wellvia: one symbolic prop carries the concept](references/wellvia-concept-prop.png)
+
+Strongest reference frames from this pass: Subyect Mobile Vikings (pills on rails), Q-Park (flowchart), Hears w20 (mirrored split), Amacx (panel split); Roveir Graymatter (radial wheel and the v9 center-stage), Odin (off-canvas grid); Roveia Wellvia (conceptual prop). The best eight went to Shresht as images and are committed under references/, each linked above next to its matching rule.
 
 ### Layout-only ads that work (research, 23 Nov 2026)
 
@@ -235,6 +263,8 @@ Ads that carry the whole message through layout and type alone, with why they wo
 - More typography-led references: themuseumofads.com/technique/typography-led
 
 ## Changelog
+
+- 23 Nov 2026, 1:50am. Agency layout study revised after a broader pass over about 90 ads across all Subyect projects and every Roveir/Roveia case study: TrimRx-based examples dropped (Shresht disliked the TrimRx ad), and new layout devices added (flowchart-as-layout, radial wheel, mirrored split, panel split, timeline, off-canvas grid crop, screenshot hero, conceptual prop). The 8 strongest frames are committed as images under references/ and linked from the study (Shresht, 23 Nov 2026 1:52am: "Add these in the design bible for visual reference. These are really good").
 
 - 23 Nov 2026. Hard rule from Shresht: every ad must be fully editable in Figma (real text layers; separate logo, product and background layers; nothing flattened to an image). His words: "every ad board makes it. It should be editable".
 
