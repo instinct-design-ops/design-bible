@@ -36,6 +36,24 @@ The working rules for how we design ads. Every entry is dated because styles exp
 
 - 23 Nov 2026. When Shresht edits a frame himself, diff it against the build (sizes, positions, line breaks, gaps, alignments), work out why he made each change, mirror it on the other ratio and the other version, and log the lesson here.
 
+- 22 Nov 2026. Design-read receipt: before producing or revising any ad, print what was read - the brief, the brand rules, his latest feedback comments - with counts. Work from that receipt.
+
+- 22 Nov 2026. Craft floor: one idea per frame, real light direction, type with an idea, designed ground (no flat default backgrounds). A frame that fails this floor does not ship to him.
+
+- 22 Nov 2026. Blind read-back on all rendered text: transcribe every glyph from the pixels without looking at the source copy, then diff. Mismatches fail the frame.
+
+- 22 Nov 2026. Scale anchors: each product gets a lock entry with one verbatim real-world-size sentence, injected into every render prompt; QC measures the rendered ratio against it. Lock entries live under Client product locks and claims registers.
+
+- 22 Nov 2026. Claims register: for each client, every factual claim used in ads becomes a row with a status (live / unverified / blocked); re-verify against the client's live site before use, and refuse non-live claims. The register for Alpha One Labs starts on the next batch.
+
+- 22 Nov 2026. 2-pass generation budget: max 2 generative passes per ad per round; a second failure means held and reported, not more grinding. Replaced by 23 Nov 2026 (Image budget: 2 images per ad).
+
+- 22 Nov 2026. Exact-size contract: canonical sizes enforced at export, native resolution plus proper resampling only, no upscalers. Upscaler clause replaced by 23 Nov 2026 (Image generation routing).
+
+- 22 Nov 2026. Weekly rule fold: keep a dated log of his feedback; fold recurring lessons into these standing rules weekly and report the fold.
+
+- 22 Nov 2026. Supersession: the 21 Nov 2026 rule "Instinct does not execute ad design" (Rejected directions, entry 3) no longer holds. Shresht handed batch execution back to Instinct on 21 Nov, and the pipeline rules above govern that work from here.
+
 ## Rejected directions
 
 Each entry shows what was made, his note, and the rule it leaves behind. These are do-not-repeat records, not drafts to revive.
@@ -122,7 +140,7 @@ Read from the client's file, 20 Nov 2026. These are the brand's own constraints 
 
 - 23 Nov 2026. Image generation routing. Roveir (RV agency) client jobs - a Roveir brief or MPS, or a Roveir client such as Alpha One Labs - use the Magnific connector once it is connected; until it is, ask Shresht first. His own work (brand, X, portfolio, KDP) generates with the Gemini API via GEMINI_API_KEY, and upscales only on a free Magnific account if it works. If it is unclear which route applies, ask before generating.
 
-- 21 Nov 2026. Image generation runs on the Gemini API via Google AI Studio. Standard model roughly ₹4.30 per image including GST; Pro roughly ₹12.40. Pay per image, no commitment.
+- 21 Nov 2026. Image generation runs on the Gemini API via Google AI Studio. Standard model roughly ₹4.30 per image including GST; Pro roughly ₹12.40. Pay per image, no commitment. Replaced by 23 Nov 2026 (Image generation routing).
 
 - 21 Nov 2026. Higgsfield skipped. $27/month billed yearly only beats the API past roughly 200 Pro images a month, and typography is set in Figma anyway. Revisit only if motion ads become a real ask.
 
@@ -179,6 +197,15 @@ Added 21 Nov 2026. Open these links alongside the approved-direction notes above
 ## 21 Nov 2026, 3:42am. Mesh gradient (soft blurred multi-color blobs: coral, lavender, pale pink, brand orange, per the avatar style he approved) is a standing brand signature for Shresht's own brand. Integrate it into every design we make for him: X post mockups, templates, everything.
 
 ## 21 Nov 2026, from Shresht. Copy rule for videos and ads: no pronouns anywhere in video scripts or ad copy - never "we", "us", "he", "him", "they", "them", or "I". CTA style is bare imperative, e.g. "Need designs? DM or email."
+
+
+## Client product locks and claims registers
+
+- 22 Nov 2026. Folded in from the approved pipeline rules (scale anchors and claims register). These records persist across batches: every client gets a scale-anchor lock and a claims register, updated as work happens.
+
+- 22 Nov 2026. Alpha One Labs scale anchors: not yet locked. On the next batch, lock one verbatim real-world-size sentence per product, sourced from the client's own specs or live site, never estimated. Inject the sentence into every render prompt and QC the rendered product ratio against it.
+
+- 22 Nov 2026. Alpha One Labs claims register: starts on the next batch. Row shape: claim, source (MPS / client site / Shresht), status (live / unverified / blocked), last verified date. Re-verify every claim against the client's live site before use; refuse non-live claims.
 
 ## Layout design rules
 
@@ -305,6 +332,8 @@ Ads that carry the whole message through layout and type alone, with why they wo
 - More typography-led references: themuseumofads.com/technique/typography-led
 
 ## Changelog
+
+- 23 Nov 2026, 4:08am. Synced from the Design Bible doc: the 22 Nov standing pipeline rules (design-read receipt, craft floor, blind read-back, scale anchors, claims register, 2-pass generation budget, exact-size contract, weekly rule fold, and the supersession of the 21 Nov no-execution rule) and the Client product locks and claims registers section. The 2-pass budget, the exact-size contract's upscaler clause and the 21 Nov Gemini-for-everything line are marked replaced by the 23 Nov image budget and image generation routing. The Doc received the 23 Nov routing rule and the Alpha One ad 01 review entries in the same sync.
 
 - 23 Nov 2026, 2:40am. Alpha One ad 01 review logged (Rejected directions, entry 4):
   - Headlines on dark grounds go all white.
