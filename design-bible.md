@@ -42,6 +42,8 @@ The working rules for how we design ads. Every entry is dated because styles exp
 
 - 22 Nov 2026. Blind read-back on all rendered text: transcribe every glyph from the pixels without looking at the source copy, then diff. Mismatches fail the frame.
 
+- 23 Nov 2026. Read-back exception for font features: an old-style figure in a serif body face (a "1" that reads like a short dotless i, as in "Alpha1" set in a Goudy-style body) is the font's design, not a wrong glyph. If the client's approved earlier work sets it the same way, it stays: note it once and do not fail the frame. Switching to lining figures is Shresht's call (Figma: Type details > Numbers > Lining). Example: Alpha One batch 2 QC; the rule applies to every client and every ratio.
+
 - 22 Nov 2026. Scale anchors: each product gets a lock entry with one verbatim real-world-size sentence, injected into every render prompt; QC measures the rendered ratio against it. Lock entries live under Client product locks and claims registers.
 
 - 22 Nov 2026. Claims register: for each client, every factual claim used in ads becomes a row with a status (live / unverified / blocked); re-verify against the client's live site before use, and refuse non-live claims. The register for Alpha One Labs starts on the next batch.
@@ -210,6 +212,8 @@ Added 21 Nov 2026. Open these links alongside the approved-direction notes above
 
 - 23 Nov 2026, from Shresht. LinkedIn exception to the copy rule: his LinkedIn posts and captions use his own first-person voice ("I"). The no-pronoun rule still holds for ads, video scripts and other own-brand content. Never invent personal stories or results for him; use opinions and his real process.
 
+- 23 Nov 2026, from Shresht. A series never repeats one look. His first two LinkedIn carousels were "way too similar with the typography and the background". From 24 Nov 2026 every post in his own feed gets its own design style and type pairing, always on a light, premium-looking ground; the only constant is a thin identity thread (name footer, sample-ad label, one sparing accent). Each style differs from the last 6 posts. Fonts are free for commercial use. Craft rules still win over style: headline biggest, thumbnail test, no orphan word. The same principle already governs client batches (tailor every ad, 21 Nov 2026): variety goes between pieces, while V1 and V2 of one ad still share one visual.
+
 
 ## Client product locks and claims registers
 
@@ -376,6 +380,8 @@ Meta Ad Library scan, 23 Nov 2026. "Long-running" means the ad has run 30+ days 
 - 23 Nov 2026. Native photo collage for offers: three phone-style photos in hard sunlight with one offer sticker on the seam where they meet; the sticker is the only "ad" element (Ritual, 67 days live: facebook.com/ads/library/?id=1051846734316425). Challenges "design-heavy over plain photo" for offer ads only; design-heavy stays the default, and a native look is an option to suggest, never to use without his yes.
 
 ## Changelog
+
+- 23 Nov 2026, 11:40pm. Nightly retro: two of today's feedback items folded in. Standing workflow rules: old-style figures in a serif body are a font feature, not a read-back failure. Other brand rules: a series never repeats one look (his LinkedIn feedback: every post its own style and type pairing on a light premium ground). Mood-board round 1 from Instinct (7 picks) is waiting on his verdicts.
 
 - 23 Nov 2026, 5:40pm. Research feed section started. Week of 23 Nov winning ads (first Job B run, fallback scan of the Meta Ad Library): drawn hairline grid (Momentous), vial row on a glass plinth with proof columns (Certified-Pep), timeline layout (Arrae), native photo collage for offers (Ritual).
 
