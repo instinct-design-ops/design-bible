@@ -384,6 +384,24 @@ Shared by Shresht on 23 Nov 2026; the full notes live in the Design Bible Doc un
 - 23 Nov 2026. Don't kill a concept for looking rough; keep it in testing. Statics are the testing vehicle, and proven angles move to video.
 - 23 Nov 2026. A fatigued ad keeps its angle: test a new scene or creator against the same angle first. This agrees with the refresh rule under Meta platform facts.
 
+### Statiq site review (Simon Robert's agency, statiq.club, 24 Nov 2026)
+
+Reviewed on Shresht's ask, 24 Nov 2026: home, portfolio, the Hollow Socks and Oar Health case studies, and three of Simon Robert's posts. Spend figures there are Statiq's own claims. Visual references only, never assets to copy. Full notes: desk/statiq-site-lessons.md.
+
+- 24 Nov 2026. Brief before design: every concept gets five answers before any image prompt, in this order: the person, what they really want (usually a feeling), how aware they are, the belief that has to shift, and only then the angle. Write them above each concept in the batch notes. Weak briefs jump straight to the angle.
+- 24 Nov 2026. Vary one answer across a batch: concepts change one of the five answers (the persona, say) and keep the others, so a winner teaches something. Visuals and layouts still differ ad to ad (creative diversity rule under Meta platform facts). Fonts, badges and CTAs get tuned later, on the winner.
+- 24 Nov 2026. Type size sets the order of the argument: the biggest line carries the pain or the surprising fact, the next carries the question or turn, and the shortest line lands last (Hollow: small kicker, huge condensed middle line, small closer). This takes the designed scan order under Hierarchy down to the lines inside the headline block.
+- 24 Nov 2026. Product inside the headline: the product can sit in the type as the gap between two words or cut across a line (an Oar pill between "TOO" and "MUCH?", an Oar bottle through the headline, a Jiyu jar over one word). Every word must still pass the thumbnail test. For Alpha One the empty vial can take this role; sharing an edge with the headline (ad 01 rule) is the quieter version.
+- 24 Nov 2026. One split, one contrast: one product straddling two worlds (Hollow's sock across a desert/snow split) or one object split down the middle (HexClad pan against plain stainless) carries a comparison without a second image. Claims on each side stay inside the client's claims register.
+- 24 Nov 2026. Build a scene that says the line: make the headline literal in the set (Hollow's sock behind glass in a snowy emergency box). Generated scenes make this cheap; image routing, budget and vial rules still apply.
+- 24 Nov 2026. Premium products: name the price objection in the headline, then answer it (Manukora asks if the honey is worth it, with the old price struck through and a review count; Lucky Fours quotes the objection in serif and answers with spec and price). Pairs with the strikethrough rule. Prices and counts come only from the brief.
+- 24 Nov 2026. Italic as the emphasis device on dark grounds: Oar sets an all-white serif headline with one italic phrase. Where the red key phrase is off (headlines on dark go all white), one italic phrase can carry the emphasis. Still one headline device per ad. For Alpha One, suggest it before using it, since batch 1 sets a heavy uppercase sans headline.
+- 24 Nov 2026. Proof sits small and low: a stat line or review strip along the bottom edge (Oar, Fussy), lighter than the CTA and never competing with the headline.
+- 24 Nov 2026. Callouts with arrows are the category cliche for hooks: Hollow's earlier agencies stalled on "four value props with arrows". Statiq keeps callout layouts for offer and story ads. Don't make a callout layout the hook of a batch.
+- 24 Nov 2026. Native can mean a designed copy of a non-ad format: Statiq's native winners imitate an iOS email notification (Carmoola), a LinkedIn post, a store listing (Manukora) or a handwritten note over a product shot (Stasis), all crafted. This is a different option from the unpolished photo look he rejected on 21 Nov. It still needs his yes; his answer is pending through Instinct (C-1123-14).
+- 24 Nov 2026. The offer ad closes; it doesn't open: a plain listing-style offer ad can be an account's top spender (Manukora) because the top-of-funnel ads made the case first. In a batch the offer-led direction is the closer, and a batch is never all offer ads.
+- 24 Nov 2026. Read a library by its gaps: map a brand's top 10 ads (client account or competitor Ad Library) against the five answers. The answers nobody is using are the next concepts. Job B can apply this to the weekly winning-ad finds.
+
 ## Research feed
 
 ### Week of 23 Nov 2026 - Winning ads
@@ -397,6 +415,7 @@ Meta Ad Library scan, 23 Nov 2026. "Long-running" means the ad has run 30+ days 
 
 ## Changelog
 
+- 24 Nov 2026, 12:35am. Statiq site review added under Layout design rules, after Ad psychology (Shresht's ask): five-answer brief, one brief answer varied per batch, type size sets the argument's order, product inside the headline, one-split contrast, literal scenes, price objection for premium products, italic emphasis on dark grounds, small low proof, no callout hooks, native as a designed copy of a non-ad format (pending his yes), offer ad as the closer, and gap mapping.
 - 23 Nov 2026, 11:40pm. Alpha One image routing: the Gemini exception is lifted and Alpha One visuals generate with the Magnific connector (now connected), per Shresht for the redesign. Visual-only, budget and vial rules unchanged.
 
 - 23 Nov 2026, 11:50pm. Ad psychology and concept selection added (Shresht's Simon Robert notes, Doc to GitHub): one claim per ad, sorting-line headlines, one persona per ad, three funnel directions per batch (native direction flagged to Shresht), redemption-arc before/after, authority by setting, borrow hypotheses not executions, keep the angle when refreshing.
