@@ -384,6 +384,22 @@ Shared by Shresht on 23 Nov 2026; the full notes live in the Design Bible Doc un
 - 23 Nov 2026. Don't kill a concept for looking rough; keep it in testing. Statics are the testing vehicle, and proven angles move to video.
 - 23 Nov 2026. A fatigued ad keeps its angle: test a new scene or creator against the same angle first. This agrees with the refresh rule under Meta platform facts.
 
+24 Nov 2026: the rest of the Simon section in the Design Bible Doc (Instinct's Simon agent, including the 10 "H1" lessons), folded in for design use at Shresht's ask ("use those things in the future in design"). Copy lessons shape concepts and what we suggest; MPS copy stays verbatim.
+
+- 24 Nov 2026. Pick the format by funnel stage. Top: a native look, either an unpolished photo or a designed copy of a non-ad format (a whiteboard photo with handwritten copy, an Instagram-story frame, an iMessage screenshot). Middle: text-heavy, led by a sorting line. Bottom: offer, with the product centred, benefits around it and the sorting line reused. Native still needs his yes (desk C-1123-14).
+- 24 Nov 2026. The format follows the buyer: one product, several buyers, each with its own register. Ridge rings used a save-the-date layout for brides, an iMessage screenshot for wives buying for husbands, a sweepstakes checklist for deal hunters and a statistic headline for proof-seekers. Speak to whoever pays, not only to the wearer.
+- 24 Nov 2026. Density follows the persona. Restraint stays the default. Boomer and deal-hunter offers can carry more (stars, badges, a free gift, was/now pricing); Gen Z reads lowercase native; millennials read memes; US offers like a week-by-week results timeline and a price anchor; UK buyers like understatement. Suggest a busy layout to Shresht before using one, since it runs against his restraint taste.
+- 24 Nov 2026. One scene, two depths: the hero product sharp in the foreground, the emotional context soft behind it (the family lunch, the lab bench). For research-use-only brands the context is a set, never people.
+- 24 Nov 2026. Sell the identity, not the item: show who the buyer becomes, or fears becoming, instead of the product alone or a plain testimonial. Not for research-use-only brands, which show no humans.
+- 24 Nov 2026. Pattern interrupts beat polish: a giant prop at an absurd scale, two claims in tension, or a deliberately "ugly" frame can stop the scroll better than a polished one. Keep such concepts in testing. Readability and the thumbnail test still apply.
+- 24 Nov 2026. Admit one real flaw in the headline slot (the pratfall effect, as in VW's "Think small" or a "we're not cheap" line). A real bad review used as the headline works the same way. The admission gets the biggest type; the answer sits in the support line.
+- 24 Nov 2026. Visible effort reads as premium: as AI floods feeds, physical builds, crafted sets and tactile objects signal care. Make the scene look built, not generated. This supports "design-heavy, with depth and 3D".
+- 24 Nov 2026. Commit to one world per ad: gorgeous and tactile, or fully digital and clean. A frame that is half analog and half UI reads as neither.
+- 24 Nov 2026. Be all AI or all human: openly stylised generated imagery can work, but fake-real AI people break trust. Generated renders stay product, set and background. For apparel and wearables, real lifestyle photography beats generated people, so ask for client photos first. This fits the no-AI-slop imagery standard.
+- 24 Nov 2026. Mid-funnel proof formats that score well: a ranking list (we ranked every fix), a doctor's-notebook sketch, a text ad quoting reviews, an ingredients static. Use one price anchor per ad: a stacked crossed-price ladder confuses, and a frame that shows only a price is weak.
+- 24 Nov 2026. CTA weight follows the stage: top-of-funnel CTAs stay soft (see how it works), bottom-of-funnel CTAs go hard (shop now, a discount). The MPS sets the words; the design sets the CTA's visual weight to match.
+- 24 Nov 2026. Ride a cultural wave into its sub-culture: the angle lives in the new identity's specific pains (for example GLP-1 users' side effects), not in the main trend.
+
 ### Statiq site review (Simon Robert's agency, statiq.club, 24 Nov 2026)
 
 Reviewed on Shresht's ask, 24 Nov 2026: home, portfolio, the Hollow Socks and Oar Health case studies, and three of Simon Robert's posts. Spend figures there are Statiq's own claims. Visual references only, never assets to copy. Full notes: desk/statiq-site-lessons.md.
@@ -415,6 +431,7 @@ Meta Ad Library scan, 23 Nov 2026. "Long-running" means the ad has run 30+ days 
 
 ## Changelog
 
+- 24 Nov 2026, 12:45am. Ad psychology and concept selection: 13 design uses folded in from the Doc's Simon section, including Instinct's 10 H1 lessons (format by funnel stage, format follows the buyer, density follows the persona with restraint as default, one scene two depths, identity statics, pattern interrupts, pratfall headline, visible effort, one world per ad, all AI or all human, mid-funnel proof formats and one price anchor, CTA weight by stage, cultural sub-culture angles). Shresht's standing direction: Simon's advice is applied in all design work.
 - 24 Nov 2026, 12:35am. Statiq site review added under Layout design rules, after Ad psychology (Shresht's ask): five-answer brief, one brief answer varied per batch, type size sets the argument's order, product inside the headline, one-split contrast, literal scenes, price objection for premium products, italic emphasis on dark grounds, small low proof, no callout hooks, native as a designed copy of a non-ad format (pending his yes), offer ad as the closer, and gap mapping.
 - 23 Nov 2026, 11:40pm. Alpha One image routing: the Gemini exception is lifted and Alpha One visuals generate with the Magnific connector (now connected), per Shresht for the redesign. Visual-only, budget and vial rules unchanged.
 
