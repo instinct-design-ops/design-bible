@@ -146,7 +146,9 @@ Read from the client's file, 20 Nov 2026. These are the brand's own constraints 
 
 - 23 Nov 2026, 2:20am. Image budget (Shresht: "We want a really minimum ad spend"). At most 2 generated images per ad; clean plates, re-rolls and higher-res re-renders all count. Plan one wide render per ad and crop it for 1:1 and 9:16. Never regenerate without first showing him the concept and getting a yes. After each ad, report that ad's image count and the batch total. Why: Alpha One ad 01 used 8 Gemini 3 Pro Image calls (4 unused 2K scenes, 2 wide 4K renders, 2 4K clean plates).
 
-- 23 Nov 2026. Alpha One visuals (his session rule): Gemini generates only the visual - product, scene, background - never text, logos, buttons or UI. Copy, CTA and logo are editable Figma layers. For Alpha One this replaces the Magnific route below until he says otherwise.
+- 23 Nov 2026, 11:40pm. Alpha One visuals move to Magnific (Shresht, for the Alpha One Labs redesign). Alpha One renders generate with the Magnific connector like every other Roveir job, not Gemini. The Magnific connector is connected (Business plan). Renders stay visual only - product, scene, background - never text, logos, buttons or UI; copy, CTA and logo stay editable Figma layers. Budget, wide-render-and-crop and no-liquid rules are unchanged.
+
+- 23 Nov 2026. Alpha One visuals (his session rule): Gemini generates only the visual - product, scene, background - never text, logos, buttons or UI. Copy, CTA and logo are editable Figma layers. For Alpha One this replaces the Magnific route below until he says otherwise. Replaced by 23 Nov 2026, 11:40pm (Alpha One visuals move to Magnific).
 
 - 23 Nov 2026. Gemini 3 Pro Image centres the product and ignores percentage layout instructions. Render wide with the product centred and empty set around it, then crop each ratio. Do cutouts and background fixes locally, not by regenerating.
 
@@ -394,6 +396,8 @@ Meta Ad Library scan, 23 Nov 2026. "Long-running" means the ad has run 30+ days 
 - 23 Nov 2026. Native photo collage for offers: three phone-style photos in hard sunlight with one offer sticker on the seam where they meet; the sticker is the only "ad" element (Ritual, 67 days live: facebook.com/ads/library/?id=1051846734316425). Challenges "design-heavy over plain photo" for offer ads only; design-heavy stays the default, and a native look is an option to suggest, never to use without his yes.
 
 ## Changelog
+
+- 23 Nov 2026, 11:40pm. Alpha One image routing: the Gemini exception is lifted and Alpha One visuals generate with the Magnific connector (now connected), per Shresht for the redesign. Visual-only, budget and vial rules unchanged.
 
 - 23 Nov 2026, 11:50pm. Ad psychology and concept selection added (Shresht's Simon Robert notes, Doc to GitHub): one claim per ad, sorting-line headlines, one persona per ad, three funnel directions per batch (native direction flagged to Shresht), redemption-arc before/after, authority by setting, borrow hypotheses not executions, keep the angle when refreshing.
 
