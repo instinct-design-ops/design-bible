@@ -368,6 +368,20 @@ Studied a 5-slide Instagram carousel by @joshuaseage (15 Nov 2026, about 12k lik
 - 23 Nov 2026. Text on statics: the 20% text rule ended in 2020, but Meta still recommends less text in the image. Readability is the real cap: one headline, one short body line, one CTA. If copy runs longer, flag it; never cut MPS copy.
 - 23 Nov 2026. Reading results: judge a static's creative by link CTR, not CTR (all), and judge the campaign by its goal. When frequency rises while CTR falls, refresh the visual or layout first and keep the winning hook.
 
+### Ad psychology and concept selection (Shresht's notes from Simon Robert, @adswithsimon, 23 Nov 2026)
+
+Shared by Shresht on 23 Nov 2026; the full notes live in the Design Bible Doc under "Ad psychology, angles and hooks". Design-relevant points, paraphrased. They shape concepts and hierarchy; MPS copy is still verbatim.
+
+- 23 Nov 2026. One claim per ad, read in the order headline, image, supporting text. This matches the designed scan order under Hierarchy.
+- 23 Nov 2026. Sorting-line headlines: a text-led ad speaks to one person already inside a specific problem, in that person's own words, with checkable numbers instead of empty claims.
+- 23 Nov 2026. One persona per ad, shown in a concrete scene. Several narrow ads beat one broad ad; for a batch, build one ad per persona the brand is missing.
+- 23 Nov 2026. Plan a batch as three directions by funnel stage: native and unpolished (story in the caption), text-led (sorting-line headline), and offer-led (product, benefits, offer). Open with Shresht: the native direction conflicts with the design-heavy default; use it only with his yes, as with the Ritual collage note under Research feed.
+- 23 Nov 2026. Before/after as a redemption arc: one specific painful moment, then the change compressed into about four words. A strong original visual with an open loop can beat a plain before/after.
+- 23 Nov 2026. Authority by setting: place the product where authority lives (a vet table, a lab bench) and pair it with real review language. For research-use-only brands, keep it to the set, with no humans or hands.
+- 23 Nov 2026. Spot winners by iteration: a concept a brand keeps re-running with one variable changed is the signal. Borrow the hypothesis, never the execution.
+- 23 Nov 2026. Don't kill a concept for looking rough; keep it in testing. Statics are the testing vehicle, and proven angles move to video.
+- 23 Nov 2026. A fatigued ad keeps its angle: test a new scene or creator against the same angle first. This agrees with the refresh rule under Meta platform facts.
+
 ## Research feed
 
 ### Week of 23 Nov 2026 - Winning ads
@@ -380,6 +394,8 @@ Meta Ad Library scan, 23 Nov 2026. "Long-running" means the ad has run 30+ days 
 - 23 Nov 2026. Native photo collage for offers: three phone-style photos in hard sunlight with one offer sticker on the seam where they meet; the sticker is the only "ad" element (Ritual, 67 days live: facebook.com/ads/library/?id=1051846734316425). Challenges "design-heavy over plain photo" for offer ads only; design-heavy stays the default, and a native look is an option to suggest, never to use without his yes.
 
 ## Changelog
+
+- 23 Nov 2026, 11:50pm. Ad psychology and concept selection added (Shresht's Simon Robert notes, Doc to GitHub): one claim per ad, sorting-line headlines, one persona per ad, three funnel directions per batch (native direction flagged to Shresht), redemption-arc before/after, authority by setting, borrow hypotheses not executions, keep the angle when refreshing.
 
 - 23 Nov 2026, 11:40pm. Nightly retro: two of today's feedback items folded in. Standing workflow rules: old-style figures in a serif body are a font feature, not a read-back failure. Other brand rules: a series never repeats one look (his LinkedIn feedback: every post its own style and type pairing on a light premium ground). Mood-board round 1 from Instinct (7 picks) is waiting on his verdicts.
 
