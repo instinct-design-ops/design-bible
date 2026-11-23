@@ -364,7 +364,20 @@ Studied a 5-slide Instagram carousel by @joshuaseage (15 Nov 2026, about 12k lik
 - 23 Nov 2026. Text on statics: the 20% text rule ended in 2020, but Meta still recommends less text in the image. Readability is the real cap: one headline, one short body line, one CTA. If copy runs longer, flag it; never cut MPS copy.
 - 23 Nov 2026. Reading results: judge a static's creative by link CTR, not CTR (all), and judge the campaign by its goal. When frequency rises while CTR falls, refresh the visual or layout first and keep the winning hook.
 
+## Research feed
+
+### Week of 23 Nov 2026 - Winning ads
+
+Meta Ad Library scan, 23 Nov 2026. "Long-running" means the ad has run 30+ days and is still active; it shows sustained spend, not a verified CTR. Visual references only, never assets to copy.
+
+- 23 Nov 2026. Drawn grid as the design: thin hairlines split the frame into visible cells like a spec sheet, and headline, badge and offer each snap into a cell. It reads "measured and tested" before any copy (Momentous creatine static, 45 days live; the same claim has run as video for 124 days: facebook.com/ads/library/?id=1722416612714530). Takes "every frame sits on a grid" one step further. For powder products, a powder drift as the ground shows what is inside.
+- 23 Nov 2026. A product row is proof: research-compound brands line up several vials on a glass plinth with a mirror reflection, under a two-tone headline and three checkmarked proof columns (purity, testing, manufacturing). Range plus a lab-clean stage answers "is it pure?" at a glance, with no humans (Certified-Pep, research peptides, 48 days live, about 6 sibling statics: facebook.com/ads/library/?id=1117237980657199). Confirms "the product gets a stage" and "2-3 benefit chips". Vials still stay empty or about 10% powder.
+- 23 Nov 2026. Timeline as layout, third example: a serif headline over a vertical line with Month 1 / 2 / 3 dots turns a benefit list into a plan, on a one-hue tonal ground with the product as the only colour (Arrae, women's wellness, 93 days live: facebook.com/ads/library/?id=2080315349539159). Confirms "a diagram can be the whole layout" and tonal product photography.
+- 23 Nov 2026. Native photo collage for offers: three phone-style photos in hard sunlight with one offer sticker on the seam where they meet; the sticker is the only "ad" element (Ritual, 67 days live: facebook.com/ads/library/?id=1051846734316425). Challenges "design-heavy over plain photo" for offer ads only; design-heavy stays the default, and a native look is an option to suggest, never to use without his yes.
+
 ## Changelog
+
+- 23 Nov 2026, 5:40pm. Research feed section started. Week of 23 Nov winning ads (first Job B run, fallback scan of the Meta Ad Library): drawn hairline grid (Momentous), vial row on a glass plinth with proof columns (Certified-Pep), timeline layout (Arrae), native photo collage for offers (Ritual).
 
 - 23 Nov 2026, 5:20am. Alpha One batch 2 readability review logged (Rejected directions, entry 5): no shadow band, streak or glow behind any text block or the product, even when the contrast ratio passes; fix with a local relight of the plate or an editable gradient scrim; plan the copy zone in the render.
 
