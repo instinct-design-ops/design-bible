@@ -32,7 +32,7 @@ The working rules for how we design ads. Every entry is dated because styles exp
 
 - 22 Nov 2026. Safe zones: the Meta safe-zone reference is the Figma Community file at figma.com/design/A3p5Z0WK0gIiv1u7bUSpwC. Place the safe-zone layer in the background of every frame while designing to check text placement; hide it when done but keep it in the layers so he can cross-check.
 
-- 25 Nov 2026, from Shresht. No AI-tell microtype: never add eyebrow labels ("Nº 01 — Standard"), tiny tracked-caps labels, numbered callout labels or catalogue index numbers. They flag the work as machine-made. An ad carries the brief's copy, the logo, and graphic devices with no words on them. (Rejected directions, entry 6.)
+- 25 Nov 2026, from Shresht. No AI-tell microtype: never add eyebrow labels ("Nº 01 — Standard"), tiny tracked-caps labels, numbered callout labels or catalogue index numbers. They flag the work as machine-made. An ad carries the brief's copy, the logo, and graphic devices with no words on them. (Rejected directions, entry 6.) Round 3 adds generic UI icons: circle-badge ✓/× marks "give off a Claude vibe", so comparison marks are hand-drawn (marker strokes, slight rotation, uneven weight). (Entry 7.)
 
 - 25 Nov 2026, from Shresht. Safe-zone margins, as numbers: on 1:1 every text layer, CTA and logo sits at least 108 px from every edge (use 112). On 9:16 copy stays between y 270 and y 1248, between x 65 and x 1015 (use a 90 px side margin), and clear of the Reels icon column (x > 885 below y 1087). Imagery and textless devices may run into the margins. This replaces the 48 px margin taken from his 23 Nov ad 01 edit.
 
@@ -144,6 +144,19 @@ His notes (14 Figma comments) and the rule each one leaves:
 - Ad 01 visual: "the visual needs to really mean the text... it's lazy work here. We need to upgrade this, and... the quality of the visual image generations too." Rule: the scene says the headline. Ad 01 became a vial beside a polished steel gauge-block stack (real measurement standards) on a granite surface plate.
 - Ad 04: "emphasize more on the cross marks and tick marks. The visual is leaving much more blank space below on the left side." Rule: comparison marks are big enough to read at feed size, and no quadrant of the frame is left dead. Body, CTA and logo moved into the empty lower-left.
 
+### 7. Alpha One batch 2 redesign, round 3 comments, 25 Nov 2026, 1:58-2:03am
+
+What was made: round 2 of the batch. It had left-aligned copy on every ratio; the dark-ground logo with white "LABS" and no card; Light/ExtraBold weight contrast on every headline, including red ones; body capped at 720 px on 9:16; ad 03 knolling tight in the lower-right corner; and ad 04 in a split layout with circle-badge ✓/× icons.
+
+His notes (9 Figma comments) and the rule each one leaves:
+
+- Ad 01 and 07 9:16: "there is space on the right side, so you can make the entire text and the layout centered... Analyze all the ads, and where you think that the text and the layout can be centered, please do that. This is really, really simple." Rule: centre when there's space (Layout design rules, Text block alignment).
+- Ad 02 9:16 and ad 05 1:1: "the logo should be on a white label because the background is dark... of course, paste the label here." Rule: on dark grounds the logo sits on a white label card (Other brand rules). This replaces the round-2 dark-ground logo version.
+- Ad 02 9:16: "you could have stretched the line till the end because there was space there... never do it again." Rule: a sentence that fits the measure stays on one line (Line breaks).
+- Ad 03 1:1: "how much spacing there is on the top-left corner and how much spacing is in the lower-right corner? ...balance spacing overall." Rule: opposite corners get matching margins; the product gets the type's margin (Whitespace).
+- Ad 04 1:1: "Why an empty place here?" (the band between the headline and the lower-left body), and of the marks: "make them look a bit more alive. This gives off a claude vibe." Rules: no dead bands between copy groups; comparison marks are hand-drawn, never circle-badge icons.
+- Ad 06 (all four frames): "When there is a color differentiation in the heading, instead of playing with the weight, you're already playing with the color." Rule: one emphasis device per headline (Hierarchy).
+
 ## Lucori brand facts
 
 Read from the client's file, 20 Nov 2026. These are the brand's own constraints and hold independent of any rejected composition.
@@ -228,7 +241,9 @@ Added 21 Nov 2026. Open these links alongside the approved-direction notes above
 
 - 23 Nov 2026. The logo sits on clean, bright ground. If the photo falls off to grey behind it, brighten that part of the background to white.
 
-- 25 Nov 2026, from Shresht. Alpha One logo: on light grounds no white label card goes behind it; "the logo should do its job itself". Every ad uses the logo without the "Optimize • Regenerate • Thrive" tagline. On black, graphite and crimson grounds use the dark-ground version, with "LABS" in white. Never place the logo over a busy texture such as granite speckle.
+- 25 Nov 2026, from Shresht. Alpha One logo: on light grounds no white label card goes behind it; "the logo should do its job itself". Every ad uses the logo without the "Optimize • Regenerate • Thrive" tagline. On black, graphite and crimson grounds use the dark-ground version, with "LABS" in white. Never place the logo over a busy texture such as granite speckle. Dark-ground part replaced by 25 Nov 2026, round 3 (next entry).
+
+- 25 Nov 2026, from Shresht (round 3). Alpha One logo on dark grounds (black, graphite, crimson): the tagline-free logo sits on a white label card. In his words: "the logo should be on a white label because the background is dark." On light grounds it stays plain, with no card.
 
 - 23 Nov 2026. Clarification of the 21 Nov working principle: "one template looks lazy" applies between different ads. The V1 and V2 of one ad share the same visual (Standing workflow rules).
 
@@ -278,17 +293,21 @@ Added 21 Nov 2026. Open these links alongside the approved-direction notes above
 
 - 23 Nov 2026. One alignment axis per text group: heading, subline, body and CTA share one left edge, or the whole group is centered. Never a left-aligned heading over a centered subline.
 - 23 Nov 2026. Centered text only when the entire composition is centered. If anything else on the frame is left-anchored, the text is left-anchored too.
+- 25 Nov 2026, from Shresht (round 3). Centre when there's space: if left-aligned copy leaves empty space on its right, centre the whole composition (logo, hook, body, CTA and the visual under them). This covers every 9:16 with the visual below the copy, and any frame whose visual sits centred. When a visual has to move, re-crop it from the original wide render rather than mirror-padding the plate. On 1:1, type left with the product right is still fine when the product fills the right side.
 
 ### Whitespace
 
 - 23 Nov 2026. Whitespace is a design element, not leftover space. The empty areas are decided as deliberately as the filled ones.
 - 23 Nov 2026. Margins and gaps come from a small spacing scale (multiples of one base unit), the same scale across every ad in a batch.
+- 25 Nov 2026, from Shresht (round 3). Balance the corners: the margin at one corner matches the margin at the opposite corner. A product, set or knolling that sits low-right gets the same margin as the type at top-left (112 px on 1:1). No dead empty band between copy groups ("Why an empty place here?").
 - 23 Nov 2026. Grouping rule: gaps inside a group of related elements are smaller than gaps between groups, so related things read as one unit.
 - 23 Nov 2026. Text coverage stays low: as a working ceiling, keep text under about a fifth of the ad area so the layout breathes (Google's display guidance uses a 20% text ceiling).
 
 ### Line breaks in headings and sublines
 
 - 25 Nov 2026, from Shresht. Break at sentence ends. When a headline holds two sentences, each sentence gets its own line ("VETERAN-OWNED. / DRIVEN BY CURIOSITY."), and the type is sized so the longer sentence fits the measure. In body copy every sentence starts on a new line, and a long sentence wraps into balanced lines. His reference frames: ad 03 V1 1:1 ("THE LITTLE / THINGS ADD UP.", body in two wide lines) and ad 07 V1 1:1 ("Scientific terms can / feel complicated. / Getting familiar with the / basics is a great first step."). Applies to every ad and every future batch.
+
+- 25 Nov 2026, from Shresht (round 3). Use the full width: a sentence that fits the measure stays on one line and runs to the end of the column. Never break it early to make a narrower block ("you could have stretched the line till the end because there was space there... never do it again"). The measure is the real free width: 900 px on 9:16, and on 1:1 up to the nearest image element.
 
 - 23 Nov 2026, from Shresht. Heading and subline line breaks must be uniform: never 3 or 4 words on the upper lines with a single orphan word on the last line.
 - 23 Nov 2026. Break lines at meaning boundaries, where a phrase naturally ends, and keep line lengths even. If one line has to be shorter, it is the first line, never the last.
@@ -302,6 +321,7 @@ Added 21 Nov 2026. Open these links alongside the approved-direction notes above
 - 23 Nov 2026, from Shresht. Thumbnail test, a hard QC rule: shrink every export to about 20% (216 px wide for a 1080 px frame). The headline must still read and the product must still be recognisable; if either fails, the frame fails. Fix it with size, contrast or simplification, never by cutting brief copy. It applies to all ads and their resizes, and to his own brand graphics.
 - 24 Nov 2026. Hook weight beats hook size: at feed size a heavy weight still reads where a light weight of the same size fails the thumbnail test (his 4:5 LinkedIn posts with Anton and Space Grotesk Bold hooks passed). Set hooks in bold to black weights; light weights are for supporting lines. Applies to all ads, their resizes and his own graphics.
 - 25 Nov 2026, from Shresht. One family per headline, emphasis by weight. Never mix a second typeface into a headline (a serif-italic accent word inside a grotesk headline "flags" as machine-made). Get the emphasis from weight contrast in one family: for Alpha One, the set-up sentence in Poppins Light and the pay-off in Poppins ExtraBold. The pay-off is red on light grounds; the whole headline is white on dark grounds. A light set-up line at about 110 px passed the thumbnail test; step up to Regular if one ever fails. This replaces the 24 Nov idea of an italic serif phrase as the dark-ground emphasis for Alpha One.
+- 25 Nov 2026, from Shresht (round 3). One emphasis device per headline: colour or weight, never both. On light grounds the red key phrase is the emphasis, so the whole headline stays in one weight (Poppins ExtraBold). Weight contrast (Light set-up, ExtraBold pay-off) is for all-white headlines on dark grounds. This narrows the entry above.
 
 ### From his own edit of Alpha One ad 01 (23 Nov 2026)
 
@@ -488,6 +508,7 @@ Meta Ad Library scan, 23 Nov 2026. "Long-running" means the ad has run 30+ days 
 
 ## Changelog
 
+- 25 Nov 2026, 2:20am. Alpha One batch 2 round 3 (9 Figma comments) folded in. Added Rejected directions entry 7. New rules: centre when there's space (Text block alignment); balance the corners and no dead bands (Whitespace); use the full width for body lines (Line breaks); one emphasis device per headline, colour or weight (Hierarchy); logo on a white label card on dark grounds (Other brand rules, replacing the round-2 dark version); hand-drawn comparison marks (Standing workflow rules).
 - 25 Nov 2026, 2:00am. Alpha One batch 2 redesign review (14 Figma comments) folded in. Rejected directions entry 6. Standing workflow rules: no AI-tell microtype; safe-zone margins as numbers (112 px on 1:1, 90 px sides and y 270-1248 on 9:16). Line breaks: break at sentence ends. Hierarchy: one family per headline, emphasis by weight. Other brand rules: Alpha One logo without card or tagline, plus a dark-ground version. The 23 Nov 48 px margin is marked replaced.
 - 25 Nov 2026, 1:00am. Tool stack: Magnific budget. No cap on Magnific renders and regenerating without asking is fine, but never at 4K (2K or lower, upscale only when a crop needs it). The 23 Nov 2-per-ad cap now applies to Gemini only. Standing rule from Shresht the same night: new design rules go into this Bible without asking him first.
 - 24 Nov 2026, 10:30pm. Nightly retro: Simon H2 and batch 7 folded into Ad psychology (clarity beats cute at the bottom, five jobs per batch, hammer a winner, the biggest line names a person, pick an end on polish, effort matches position, relevance over originality, nostalgia remix with his yes, no fake news packaging, fatigue as saturation). Hierarchy: hook weight beats size. Other brand rules: his own photos stay real, profile kit picks (warm mesh headshot, dark banner).
