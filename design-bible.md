@@ -216,6 +216,8 @@ Added 21 Nov 2026. Open these links alongside the approved-direction notes above
 
 - 23 Nov 2026, from Shresht. A series never repeats one look. His first two LinkedIn carousels were "way too similar with the typography and the background". From 24 Nov 2026 every post in his own feed gets its own design style and type pairing, always on a light, premium-looking ground; the only constant is a thin identity thread (name footer, sample-ad label, one sparing accent). Each style differs from the last 6 posts. Fonts are free for commercial use. Craft rules still win over style: headline biggest, thumbnail test, no orphan word. The same principle already governs client batches (tailor every ad, 21 Nov 2026): variety goes between pieces, while V1 and V2 of one ad still share one visual.
 
+- 24 Nov 2026. His own photos stay real: his face is never generated or altered by AI. Cutouts are done locally (colour unmixing on his own headshot), and any AI background removal is shown to him before use. Profile kit, his picks: B&W headshot on the warm brand mesh (warm chosen over a night version) and a dark profile banner (dark chosen over light). The light-ground rule is for posts; banners can go dark. One photo and one banner promise across LinkedIn, Behance and X.
+
 
 ## Client product locks and claims registers
 
@@ -272,6 +274,7 @@ Added 21 Nov 2026. Open these links alongside the approved-direction notes above
 - 23 Nov 2026. One dominant element per frame, clearly the biggest: the headline or the visual, not both fighting. If two elements compete for first place, one of them shrinks.
 - 23 Nov 2026. The scan order is designed, not accidental: headline first, then the visual, then the subline, then the CTA and logo. Check with a 2-second flash test: show the frame briefly and confirm what was read first.
 - 23 Nov 2026, from Shresht. Thumbnail test, a hard QC rule: shrink every export to about 20% (216 px wide for a 1080 px frame). The headline must still read and the product must still be recognisable; if either fails, the frame fails. Fix it with size, contrast or simplification, never by cutting brief copy. It applies to all ads and their resizes, and to his own brand graphics.
+- 24 Nov 2026. Hook weight beats hook size: at feed size a heavy weight still reads where a light weight of the same size fails the thumbnail test (his 4:5 LinkedIn posts with Anton and Space Grotesk Bold hooks passed). Set hooks in bold to black weights; light weights are for supporting lines. Applies to all ads, their resizes and his own graphics.
 
 ### From his own edit of Alpha One ad 01 (23 Nov 2026)
 
@@ -400,6 +403,19 @@ Shared by Shresht on 23 Nov 2026; the full notes live in the Design Bible Doc un
 - 24 Nov 2026. CTA weight follows the stage: top-of-funnel CTAs stay soft (see how it works), bottom-of-funnel CTAs go hard (shop now, a discount). The MPS sets the words; the design sets the CTA's visual weight to match.
 - 24 Nov 2026. Ride a cultural wave into its sub-culture: the angle lives in the new identity's specific pains (for example GLP-1 users' side effects), not in the main trend.
 
+24 Nov 2026, retro: Simon's H2 and batch 7 lessons from the Design Bible Doc, folded in for design use (his standing direction). Paraphrased; MPS copy stays verbatim, and brand rules and his rejections still win.
+
+- 24 Nov 2026. Clarity beats cute at the bottom of the funnel: in Simon's paired tests a plain product, description and price static and a simple product-trio grid beat a cute character ad and listicles by wide margins, and copy in the customer's own words beat a "5 reasons" list. Keep the offer-led ad plain and legible, and pair opposite ad types in a batch so results, not taste, pick.
+- 24 Nov 2026. Five jobs a batch can cover: explain the product (one question answered), prove it (one checkable number), push the offer, break the pattern, build the brand. Label each concept with its job when planning; a batch that covers only one or two jobs leaves gaps. Fits the funnel-stage directions above.
+- 24 Nov 2026. Hammer a winner before replacing it: once a static is shown to win, the next round iterates on it (new hooks in the same layout, CTA and crop variants) before new angles. This is the one case where ads share a look on purpose, so suggest it to Shresht first; new concepts still differ ad to ad.
+- 24 Nov 2026. The biggest line names a person: first lines die as crowd talk (could be anyone), air claims (nothing to check, "game-changing") or labels ("premium cookware"). Lines that work are a moment, a reaction, an identity or a before. Copy is verbatim, so the design job is to give the sorting line the biggest type, and to flag a label-style hook to Shresht rather than rewrite it.
+- 24 Nov 2026. Pick an end on polish: fully crafted or fully raw. The middle (ring-light editorial, a generic stock-shoot look, polished enough to read as an ad but not enough to signal quality) does worst. Design-heavy is the default, so commit to the crafted end: built sets, exact type, one real device.
+- 24 Nov 2026. Effort matches position: a category leader can run a plain product on white because the name is the signal; a challenger doing the same reads as not trying. Most clients are challengers, so their statics out-work the category. Plain product-on-white is for the offer closer only (his "too basic" rejection, 21 Nov, agrees).
+- 24 Nov 2026. Relevance beats originality: across about 150 accounts Simon's team found winners felt made for one buyer, not more original. A pattern interrupt has to point at the buyer's own problem; a clever device that gets noticed but says nothing about the buyer fails. QC question per concept: what does this device say about this buyer?
+- 24 Nov 2026. Nostalgia remix as an option: period-style art (a 1950s print-ad look) with a modern line can carry an angle, because spotting the reference is part of the appeal. Original period-style art only, never a real brand's mascot or campaign; suggest it to Shresht first.
+- 24 Nov 2026. No fake news packaging: staged news-broadcast ads (a network chyron, a real executive) get attention, but an ad never uses a real outlet's branding or a real person. It imitates real organisations and breaks platform policy.
+- 24 Nov 2026. Fatigue can be saturation: a narrow angle can use up its audience slice in about 60 days. Refresh the scene first (rule above); if the angle itself is spent, move up to the bigger adjacent problem instead of remaking the same angle.
+
 ### Statiq site review (Simon Robert's agency, statiq.club, 24 Nov 2026)
 
 Reviewed on Shresht's ask, 24 Nov 2026: home, portfolio, the Hollow Socks and Oar Health case studies, and three of Simon Robert's posts. Spend figures there are Statiq's own claims. Visual references only, never assets to copy. Full notes: desk/statiq-site-lessons.md.
@@ -445,6 +461,7 @@ Meta Ad Library scan, 23 Nov 2026. "Long-running" means the ad has run 30+ days 
 
 ## Changelog
 
+- 24 Nov 2026, 10:30pm. Nightly retro: Simon H2 and batch 7 folded into Ad psychology (clarity beats cute at the bottom, five jobs per batch, hammer a winner, the biggest line names a person, pick an end on polish, effort matches position, relevance over originality, nostalgia remix with his yes, no fake news packaging, fatigue as saturation). Hierarchy: hook weight beats size. Other brand rules: his own photos stay real, profile kit picks (warm mesh headshot, dark banner).
 - 24 Nov 2026, 12:20pm. Research feed: 24 Nov layout research (Job A): anaphora headline stack, two-cell price ticket, quote marks breaking the frame, series constant element, two-ground alternation with fixed footer lockup, micro benefit row, giant-number headline, crossed-out list vs product card; plus a try-next-batch line for Alpha One.
 - 24 Nov 2026, 12:45am. Ad psychology and concept selection: 13 design uses folded in from the Doc's Simon section, including Instinct's 10 H1 lessons (format by funnel stage, format follows the buyer, density follows the persona with restraint as default, one scene two depths, identity statics, pattern interrupts, pratfall headline, visible effort, one world per ad, all AI or all human, mid-funnel proof formats and one price anchor, CTA weight by stage, cultural sub-culture angles). Shresht's standing direction: Simon's advice is applied in all design work.
 - 24 Nov 2026, 12:35am. Statiq site review added under Layout design rules, after Ad psychology (Shresht's ask): five-answer brief, one brief answer varied per batch, type size sets the argument's order, product inside the headline, one-split contrast, literal scenes, price objection for premium products, italic emphasis on dark grounds, small low proof, no callout hooks, native as a designed copy of a non-ad format (pending his yes), offer ad as the closer, and gap mapping.
