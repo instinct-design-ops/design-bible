@@ -32,6 +32,10 @@ The working rules for how we design ads. Every entry is dated because styles exp
 
 - 22 Nov 2026. Safe zones: the Meta safe-zone reference is the Figma Community file at figma.com/design/A3p5Z0WK0gIiv1u7bUSpwC. Place the safe-zone layer in the background of every frame while designing to check text placement; hide it when done but keep it in the layers so he can cross-check.
 
+- 25 Nov 2026, from Shresht. No AI-tell microtype: never add eyebrow labels ("Nº 01 — Standard"), tiny tracked-caps labels, numbered callout labels or catalogue index numbers. They flag the work as machine-made. An ad carries the brief's copy, the logo, and graphic devices with no words on them. (Rejected directions, entry 6.)
+
+- 25 Nov 2026, from Shresht. Safe-zone margins, as numbers: on 1:1 every text layer, CTA and logo sits at least 108 px from every edge (use 112). On 9:16 copy stays between y 270 and y 1248, between x 65 and x 1015 (use a 90 px side margin), and clear of the Reels icon column (x > 885 below y 1087). Imagery and textless devices may run into the margins. This replaces the 48 px margin taken from his 23 Nov ad 01 edit.
+
 - 23 Nov 2026, 1:43am. Full editability is a hard rule (Shresht: "every ad board makes it. It should be editable"): every ad must be fully editable in Figma, with real text layers and separate logo, product and background layers. Nothing is flattened into an image.
 
 - 23 Nov 2026, 2:40am. One visual per ad. All four canvases of one ad (V1 1x1, V1 9x16, V2 1x1, V2 9x16) use the same visual and layout; V2 changes only the copy. Variation happens between ads, never inside one ad. Shresht: "There is to be no variation made in the visual of the second variation. The only thing that needs to be changed is the text." Build V1, clone it for V2, swap headline, body and CTA, and re-fit the type to the new copy.
@@ -126,6 +130,20 @@ His notes (Figma comments) and the rule each one leaves:
 - Ad 02: "Text readability issue." Rule: thin serif body never sits on glowing or busy shapes, even on a dark ground. Fixed with an editable gradient scrim layer between the background and the product, holding the copy zone near black and fading out above the hero vial.
 - Together: a contrast ratio alone does not clear a frame. Look at the ground under every text block for edges, streaks and glow, and plan the copy zone in the render itself.
 
+### 6. Alpha One batch 2 premium redesign, review comments, 25 Nov 2026, 12:53-12:59am
+
+What was made: a 28-frame premium rebuild of batch 2 (7 ads, V1/V2, 1:1 and 9:16). Each frame had a "Nº 0X — word" eyebrow and Goudy-italic accent words inside the Poppins headlines ("Curiosity.", "Why?"). It also had 48 px margins on 1:1, a white label card behind the logo on every ground, the full logo with its tagline, and plain vial-on-sweep visuals with tiny tracked callout labels.
+
+His notes (14 Figma comments) and the rule each one leaves:
+
+- Eyebrow microtype: "Never add these. It immediately flags that this design has been made by Claude... We want to show that the real designer has made it." Rule: no eyebrows, tiny tracked-caps labels, numbered callout labels or index numbers, on any ad, ever.
+- Two typefaces in the headline: "playing with two fonts to emphasize one word more... that's not working. It is again flagging, as it's done by Claude... play with the weights of the font in the heading." Also: "one font and play with the weights." Rule: one family per headline, emphasis by weight (see Hierarchy).
+- Line breaks: "The text breaking is not nice when there is a full stop... break them into two sentences, and this makes the text to be read even more easily. It catches attention." He hand-edited ad 03 and ad 07 as references. Rule: see Line breaks.
+- Safe zones: "take care of the safe zones... You're going way far." Rule: see Standing workflow rules (safe-zone margins).
+- Logo, four comments: "when the background's always in a lighter color, we don't need to add a white label behind the logo. The logo should do its job itself", and erase the "Optimize, Regenerate, Thrive" tagline under the wordmark in every ad. Rule: see Other brand rules.
+- Ad 01 visual: "the visual needs to really mean the text... it's lazy work here. We need to upgrade this, and... the quality of the visual image generations too." Rule: the scene says the headline. Ad 01 became a vial beside a polished steel gauge-block stack (real measurement standards) on a granite surface plate.
+- Ad 04: "emphasize more on the cross marks and tick marks. The visual is leaving much more blank space below on the left side." Rule: comparison marks are big enough to read at feed size, and no quadrant of the frame is left dead. Body, CTA and logo moved into the empty lower-left.
+
 ## Lucori brand facts
 
 Read from the client's file, 20 Nov 2026. These are the brand's own constraints and hold independent of any rejected composition.
@@ -210,6 +228,8 @@ Added 21 Nov 2026. Open these links alongside the approved-direction notes above
 
 - 23 Nov 2026. The logo sits on clean, bright ground. If the photo falls off to grey behind it, brighten that part of the background to white.
 
+- 25 Nov 2026, from Shresht. Alpha One logo: on light grounds no white label card goes behind it; "the logo should do its job itself". Every ad uses the logo without the "Optimize • Regenerate • Thrive" tagline. On black, graphite and crimson grounds use the dark-ground version, with "LABS" in white. Never place the logo over a busy texture such as granite speckle.
+
 - 23 Nov 2026. Clarification of the 21 Nov working principle: "one template looks lazy" applies between different ads. The V1 and V2 of one ad share the same visual (Standing workflow rules).
 
 - 21 Nov 2026, 3:42am. Mesh gradient (soft blurred multi-color blobs: coral, lavender, pale pink, brand orange, per the avatar style he approved) is a standing brand signature for Shresht's own brand. Integrate it into every design we make for him: X post mockups, templates, everything.
@@ -268,6 +288,8 @@ Added 21 Nov 2026. Open these links alongside the approved-direction notes above
 
 ### Line breaks in headings and sublines
 
+- 25 Nov 2026, from Shresht. Break at sentence ends. When a headline holds two sentences, each sentence gets its own line ("VETERAN-OWNED. / DRIVEN BY CURIOSITY."), and the type is sized so the longer sentence fits the measure. In body copy every sentence starts on a new line, and a long sentence wraps into balanced lines. His reference frames: ad 03 V1 1:1 ("THE LITTLE / THINGS ADD UP.", body in two wide lines) and ad 07 V1 1:1 ("Scientific terms can / feel complicated. / Getting familiar with the / basics is a great first step."). Applies to every ad and every future batch.
+
 - 23 Nov 2026, from Shresht. Heading and subline line breaks must be uniform: never 3 or 4 words on the upper lines with a single orphan word on the last line.
 - 23 Nov 2026. Break lines at meaning boundaries, where a phrase naturally ends, and keep line lengths even. If one line has to be shorter, it is the first line, never the last.
 - 23 Nov 2026. Before accepting an orphan word, fix it: rebalance the break, adjust the container width, or resize the type. An orphan word is a defect, not a style.
@@ -279,13 +301,14 @@ Added 21 Nov 2026. Open these links alongside the approved-direction notes above
 - 23 Nov 2026. The scan order is designed, not accidental: headline first, then the visual, then the subline, then the CTA and logo. Check with a 2-second flash test: show the frame briefly and confirm what was read first.
 - 23 Nov 2026, from Shresht. Thumbnail test, a hard QC rule: shrink every export to about 20% (216 px wide for a 1080 px frame). The headline must still read and the product must still be recognisable; if either fails, the frame fails. Fix it with size, contrast or simplification, never by cutting brief copy. It applies to all ads and their resizes, and to his own brand graphics.
 - 24 Nov 2026. Hook weight beats hook size: at feed size a heavy weight still reads where a light weight of the same size fails the thumbnail test (his 4:5 LinkedIn posts with Anton and Space Grotesk Bold hooks passed). Set hooks in bold to black weights; light weights are for supporting lines. Applies to all ads, their resizes and his own graphics.
+- 25 Nov 2026, from Shresht. One family per headline, emphasis by weight. Never mix a second typeface into a headline (a serif-italic accent word inside a grotesk headline "flags" as machine-made). Get the emphasis from weight contrast in one family: for Alpha One, the set-up sentence in Poppins Light and the pay-off in Poppins ExtraBold. The pay-off is red on light grounds; the whole headline is white on dark grounds. A light set-up line at about 110 px passed the thumbnail test; step up to Regular if one ever fails. This replaces the 24 Nov idea of an italic serif phrase as the dark-ground emphasis for Alpha One.
 
 ### From his own edit of Alpha One ad 01 (23 Nov 2026)
 
 Shresht re-laid the ad 01 V1 1x1 frame by hand and asked for the same changes on the 9:16. Measured against the build, on a 1080 px frame:
 
 - 23 Nov 2026. Headline size 80 to 107 px, spanning about 76% of the frame width (820 px). The headline is the dominant mass, not a polite caption.
-- 23 Nov 2026. Outer margin 108 to 48 px on 1:1. On 9:16, 65 px, to respect the Reels side safe zone.
+- 23 Nov 2026. Outer margin 108 to 48 px on 1:1. On 9:16, 65 px, to respect the Reels side safe zone. Replaced by 25 Nov 2026 (safe-zone margins, Standing workflow rules): 112 px on 1:1, 90 px on 9:16.
 - 23 Nov 2026. Line break "THE DETAILS SET / THE STANDARD.": near-equal lines forming one solid block, with the key phrase kept whole on its own line.
 - 23 Nov 2026. Body 32 to 34 px. Gaps between groups opened up: headline to body 24 to 50 px, body to CTA 32 to 88 px, so each group reads on its own.
 - 23 Nov 2026. CTA scaled up about 8% and moved onto the white panel. A black CTA reads strongest on white ground.
@@ -431,7 +454,7 @@ Reviewed on Shresht's ask, 24 Nov 2026: home, portfolio, the Hollow Socks and Oa
 - 24 Nov 2026. One split, one contrast: one product straddling two worlds (Hollow's sock across a desert/snow split) or one object split down the middle (HexClad pan against plain stainless) carries a comparison without a second image. Claims on each side stay inside the client's claims register.
 - 24 Nov 2026. Build a scene that says the line: make the headline literal in the set (Hollow's sock behind glass in a snowy emergency box). Generated scenes make this cheap; image routing, budget and vial rules still apply.
 - 24 Nov 2026. Premium products: name the price objection in the headline, then answer it (Manukora asks if the honey is worth it, with the old price struck through and a review count; Lucky Fours quotes the objection in serif and answers with spec and price). Pairs with the strikethrough rule. Prices and counts come only from the brief.
-- 24 Nov 2026. Italic as the emphasis device on dark grounds: Oar sets an all-white serif headline with one italic phrase. Where the red key phrase is off (headlines on dark go all white), one italic phrase can carry the emphasis. Still one headline device per ad. For Alpha One, suggest it before using it, since batch 1 sets a heavy uppercase sans headline.
+- 24 Nov 2026. Italic as the emphasis device on dark grounds: Oar sets an all-white serif headline with one italic phrase. Where the red key phrase is off (headlines on dark go all white), one italic phrase can carry the emphasis. Still one headline device per ad. For Alpha One, suggest it before using it, since batch 1 sets a heavy uppercase sans headline. Replaced by 25 Nov 2026 (one family per headline, under Hierarchy): never put a serif italic inside a headline; use weight contrast instead.
 - 24 Nov 2026. Proof sits small and low: a stat line or review strip along the bottom edge (Oar, Fussy), lighter than the CTA and never competing with the headline.
 - 24 Nov 2026. Callouts with arrows are the category cliche for hooks: Hollow's earlier agencies stalled on "four value props with arrows". Statiq keeps callout layouts for offer and story ads. Don't make a callout layout the hook of a batch.
 - 24 Nov 2026. Native can mean a designed copy of a non-ad format: Statiq's native winners imitate an iOS email notification (Carmoola), a LinkedIn post, a store listing (Manukora) or a handwritten note over a product shot (Stasis), all crafted. This is a different option from the unpolished photo look he rejected on 21 Nov. It still needs his yes; his answer is pending through Instinct (C-1123-14).
@@ -465,6 +488,7 @@ Meta Ad Library scan, 23 Nov 2026. "Long-running" means the ad has run 30+ days 
 
 ## Changelog
 
+- 25 Nov 2026, 2:00am. Alpha One batch 2 redesign review (14 Figma comments) folded in. Rejected directions entry 6. Standing workflow rules: no AI-tell microtype; safe-zone margins as numbers (112 px on 1:1, 90 px sides and y 270-1248 on 9:16). Line breaks: break at sentence ends. Hierarchy: one family per headline, emphasis by weight. Other brand rules: Alpha One logo without card or tagline, plus a dark-ground version. The 23 Nov 48 px margin is marked replaced.
 - 25 Nov 2026, 1:00am. Tool stack: Magnific budget. No cap on Magnific renders and regenerating without asking is fine, but never at 4K (2K or lower, upscale only when a crop needs it). The 23 Nov 2-per-ad cap now applies to Gemini only. Standing rule from Shresht the same night: new design rules go into this Bible without asking him first.
 - 24 Nov 2026, 10:30pm. Nightly retro: Simon H2 and batch 7 folded into Ad psychology (clarity beats cute at the bottom, five jobs per batch, hammer a winner, the biggest line names a person, pick an end on polish, effort matches position, relevance over originality, nostalgia remix with his yes, no fake news packaging, fatigue as saturation). Hierarchy: hook weight beats size. Other brand rules: his own photos stay real, profile kit picks (warm mesh headshot, dark banner).
 - 24 Nov 2026, 12:20pm. Research feed: 24 Nov layout research (Job A): anaphora headline stack, two-cell price ticket, quote marks breaking the frame, series constant element, two-ground alternation with fixed footer lockup, micro benefit row, giant-number headline, crossed-out list vs product card; plus a try-next-batch line for Alpha One.
