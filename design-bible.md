@@ -58,6 +58,8 @@ The working rules for how we design ads. Every entry is dated because styles exp
 
 - 22 Nov 2026. Exact-size contract: canonical sizes enforced at export, native resolution plus proper resampling only, no upscalers. Upscaler clause replaced by 23 Nov 2026 (Image generation routing).
 
+- 25 Nov 2026, from Shresht. Behance presentations: every Behance project is "really Behance-coded, seamless" and opens on a "really, really show-stopping, attention-grabbing aesthetic cover". Make the cover in 3 options and keep the one that wins the gallery-thumbnail test. Design from the Behance research notes (research/behance-presentations.md), never from a generic template. All Behance series (showcase ads, the monthly LinkedIn roundup) share one house system, cover language, grid and type, so the profile reads as one body of work ("make consistency in the designing"). Plan: behance/SHOWCASE-PLAN.md.
+
 - 22 Nov 2026. Weekly rule fold: keep a dated log of his feedback; fold recurring lessons into these standing rules weekly and report the fold.
 
 - 22 Nov 2026. Supersession: the 21 Nov 2026 rule "Instinct does not execute ad design" (Rejected directions, entry 3) no longer holds. Shresht handed batch execution back to Instinct on 21 Nov, and the pipeline rules above govern that work from here.
@@ -508,6 +510,7 @@ Meta Ad Library scan, 23 Nov 2026. "Long-running" means the ad has run 30+ days 
 
 ## Changelog
 
+- 25 Nov 2026, 3:10am. Standing workflow rules: Behance presentations (Behance-coded and seamless, a show-stopping cover, one house system across all Behance series). Added by Claude on the Mac during the power cut.
 - 25 Nov 2026, 2:20am. Alpha One batch 2 round 3 (9 Figma comments) folded in. Added Rejected directions entry 7. New rules: centre when there's space (Text block alignment); balance the corners and no dead bands (Whitespace); use the full width for body lines (Line breaks); one emphasis device per headline, colour or weight (Hierarchy); logo on a white label card on dark grounds (Other brand rules, replacing the round-2 dark version); hand-drawn comparison marks (Standing workflow rules).
 - 25 Nov 2026, 2:00am. Alpha One batch 2 redesign review (14 Figma comments) folded in. Rejected directions entry 6. Standing workflow rules: no AI-tell microtype; safe-zone margins as numbers (112 px on 1:1, 90 px sides and y 270-1248 on 9:16). Line breaks: break at sentence ends. Hierarchy: one family per headline, emphasis by weight. Other brand rules: Alpha One logo without card or tagline, plus a dark-ground version. The 23 Nov 48 px margin is marked replaced.
 - 25 Nov 2026, 1:00am. Tool stack: Magnific budget. No cap on Magnific renders and regenerating without asking is fine, but never at 4K (2K or lower, upscale only when a crop needs it). The 23 Nov 2-per-ad cap now applies to Gemini only. Standing rule from Shresht the same night: new design rules go into this Bible without asking him first.
