@@ -420,6 +420,20 @@ Reviewed on Shresht's ask, 24 Nov 2026: home, portfolio, the Hollow Socks and Oa
 
 ## Research feed
 
+### 24 Nov 2026 - Daily layout research
+
+Job A, judged from two Instinct mood-board picks (Lume Tallow, Hims) plus one Behance find. Visual references only, never assets to copy. Lume is dense; take the devices, not the busyness (restraint stays the default).
+
+- 24 Nov 2026. Anaphora headline stack: one repeated opener on every line ("Still X. / Still Y. / Still Z?"), condensed serif, one pain per line, the stack filling the top half of a dark frame (Lume Tallow, Saint Nicolas case study: saint-nicolas.co.uk/case-studies/lume-tallow/). Why it works: repetition reads as one block, so three pains land in one glance without a bullet list. Line breaks still follow the no-orphan rule.
+- 24 Nov 2026. Two-cell price ticket: old price struck in a white cell, new price in a brand-colour cell, butted into one bar (Lume Tallow, same source). Why it works: the colour change makes the comparison before the numbers are read. Sharpens the strikethrough rule; prices only from the brief.
+- 24 Nov 2026. Quote marks breaking the frame: a dashed inset rule around a testimonial, with oversized quote marks cutting through its top and bottom edges (Lume Tallow, same source). Why it works: the marks say "a real person said this" at thumbnail size and anchor a quiet photo ground.
+- 24 Nov 2026. Series constant: every ad in a set ends on the same full-width element (Lume: one accent offer bar) while ground, headline style and device change ad to ad (same source). Why it works: one fixed element ties very different layouts into one campaign, so variety doesn't read as several brands. Fits the tailor-every-ad rule: vary the device, keep one thread.
+- 24 Nov 2026. Two-ground alternation with a fixed footer lockup: a set swaps between two grounds (butter and navy), headlines run 2-4 words in a light sans, and a small "product by brand" lockup sits at the same bottom-left spot on every card (Hims testosterone campaign, VASA Works: inspiration.vasa.works/item/graphics/82ae9d24d17e613be052bd8ae73f5f33). Why it works: the system lives in the fixed corner and the colour rhythm, which frees each card to change crop and scale.
+- 24 Nov 2026. Micro benefit row: three tiny benefits in one row along the bottom edge, split by hairline dividers, far smaller than the hook (Hims, same source). Why it works: the proof is there for whoever stops, without taking weight from the headline. Confirms "proof sits small and low" with a cleaner device than chips.
+- 24 Nov 2026. Giant number as the headline: the stat ("28g", "4.7") is the largest mass on the frame, with a short qualifier under it and the product overlapping the numerals (Transparent Labs spec set on Behance, spec work not a live ad: behance.net/gallery/258451141/Transparent-Labs-Protein-Static-Ads). Why it works: a number reads at thumbnail size faster than a sentence and is checkable, which is what a sorting line needs. Numbers only from the claims register.
+- 24 Nov 2026. Crossed-out list against a product card: an asymmetric split, a light card with a ruled checklist of struck-out problems beside a brand-colour card holding the product (Transparent Labs spec set, same source). Why it works: the struck list carries the comparison with no competitor image; a lighter cousin of the mirrored split.
+- 24 Nov 2026. Try next batch: giant-number headline for Alpha One Labs, a checkable testing or purity figure from the claims register as the biggest mass with the empty vial overlapping the numerals, in batch 1's heavy uppercase sans.
+
 ### Week of 23 Nov 2026 - Winning ads
 
 Meta Ad Library scan, 23 Nov 2026. "Long-running" means the ad has run 30+ days and is still active; it shows sustained spend, not a verified CTR. Visual references only, never assets to copy.
@@ -431,6 +445,7 @@ Meta Ad Library scan, 23 Nov 2026. "Long-running" means the ad has run 30+ days 
 
 ## Changelog
 
+- 24 Nov 2026, 12:20pm. Research feed: 24 Nov layout research (Job A): anaphora headline stack, two-cell price ticket, quote marks breaking the frame, series constant element, two-ground alternation with fixed footer lockup, micro benefit row, giant-number headline, crossed-out list vs product card; plus a try-next-batch line for Alpha One.
 - 24 Nov 2026, 12:45am. Ad psychology and concept selection: 13 design uses folded in from the Doc's Simon section, including Instinct's 10 H1 lessons (format by funnel stage, format follows the buyer, density follows the persona with restraint as default, one scene two depths, identity statics, pattern interrupts, pratfall headline, visible effort, one world per ad, all AI or all human, mid-funnel proof formats and one price anchor, CTA weight by stage, cultural sub-culture angles). Shresht's standing direction: Simon's advice is applied in all design work.
 - 24 Nov 2026, 12:35am. Statiq site review added under Layout design rules, after Ad psychology (Shresht's ask): five-answer brief, one brief answer varied per batch, type size sets the argument's order, product inside the headline, one-split contrast, literal scenes, price objection for premium products, italic emphasis on dark grounds, small low proof, no callout hooks, native as a designed copy of a non-ad format (pending his yes), offer ad as the closer, and gap mapping.
 - 23 Nov 2026, 11:40pm. Alpha One image routing: the Gemini exception is lifted and Alpha One visuals generate with the Magnific connector (now connected), per Shresht for the redesign. Visual-only, budget and vial rules unchanged.
