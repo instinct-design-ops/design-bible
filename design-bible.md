@@ -12,6 +12,8 @@ The working rules for how we design ads. Every entry is dated because styles exp
 
 - The changelog at the end is the running record. Newest decisions go on top.
 
+- New design rules from Shresht land here straight away: Claude adds, commits and pushes them without asking him first. (Rule, 25 Nov 2026.)
+
 ## Standing workflow rules
 
 - 21 Nov 2026. Before any design work starts, check three things: the brief, the existing designs, and the winning ads. Every time, before beginning.
