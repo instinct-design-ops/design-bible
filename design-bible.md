@@ -9,6 +9,7 @@ The rules in force for how Shresht's ads and own-brand work are designed. This f
 | `clients/` | One file per client: brand facts, logo and type specifics, product locks, claims register, review anchors. [Alpha One Labs](clients/alpha-one-labs.md) · [Lucori](clients/lucori.md) |
 | `reference/` | Research that informs the rules: [layout studies](reference/layout-studies.md), [ad psychology](reference/ad-psychology.md), [Meta platform facts](reference/meta-platform-facts.md), [research feed](reference/research-feed.md), [approved directions](reference/approved-directions.md) |
 | `history/` | [Changelog](history/changelog.md), [rejected directions](history/rejected-directions.md), [superseded rules](history/superseded-rules.md) |
+| `workflows/` | Runbooks for standing automations: [Subyect runner](workflows/subyect-runner.md) |
 | `references/` | Reference images linked from the layout studies |
 
 ## H · How this Bible works
@@ -40,6 +41,7 @@ The rules in force for how Shresht's ads and own-brand work are designed. This f
 - **W-10** · 22 Nov 2026. Scale anchors: each product gets a lock entry in its client file with one verbatim real-world-size sentence from the client's own specs or site, injected into every render prompt. QC measures the rendered ratio against it.
 - **W-11** · 22 Nov 2026. Claims register: every factual claim used in a client's ads is a row in its client file (claim, source, status live / unverified / blocked, last verified). Re-verify against the client's live site before use, and refuse non-live claims.
 - **W-12** · 22 Nov 2026. Instinct executes ad batches under these rules (Shresht handed batch execution back on 21 Nov).
+- **W-13** · 25 Nov 2026, from Shresht. Subyect runner: the team Subyect work is done by Claude on Shresht's PC, signed in with the team Subyect account. On a Studio Desk request, a phone message or its hourly scheduled task, it opens the Subyect works Notion workspace, checks the open links, works each one in the team Subyect Chrome profile, and reports in Studio Desk. Setup and each run follow [workflows/subyect-runner.md](workflows/subyect-runner.md).
 
 ## G · Generation and tools
 

@@ -7,7 +7,8 @@ Design rules for Shresht's ad design workflow and own brand. Newer dated decisio
 1. **Always:** [design-bible.md](design-bible.md), the rules in force, each with an ID (W-04, Q-02, L-24...).
 2. **For client work:** that client's file in [clients/](clients/): [Alpha One Labs](clients/alpha-one-labs.md), [Lucori](clients/lucori.md). It wins over design-bible.md where they overlap.
 3. **When concepting:** [reference/](reference/): layout studies, ad psychology, Meta platform facts, the research feed and approved directions.
-4. **Only to understand why:** [history/](history/): changelog, rejected directions, superseded rules, and a snapshot of the Bible before the 25 Nov 2026 split.
+4. **For a standing automation:** [workflows/](workflows/): runbooks such as the [Subyect runner](workflows/subyect-runner.md).
+5. **Only to understand why:** [history/](history/): changelog, rejected directions, superseded rules, and a snapshot of the Bible before the 25 Nov 2026 split.
 
 ## Public copy
 
