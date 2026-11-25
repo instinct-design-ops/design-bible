@@ -65,6 +65,14 @@ The working rules for how we design ads. Every entry is dated because styles exp
 
 - 22 Nov 2026. Supersession: the 21 Nov 2026 rule "Instinct does not execute ad design" (Rejected directions, entry 3) no longer holds. Shresht handed batch execution back to Instinct on 21 Nov, and the pipeline rules above govern that work from here.
 
+## Subyect freelance briefs
+
+- 25 Nov 2026, from Shresht. How a Subyect job starts. Subyect (freelance agency) posts a Notion brief link in his own Subyect Slack channel, without tagging him. That channel is his alone: every Notion brief link Subyect posts there is his job, and briefs anywhere else in the workspace belong to other designers. He opens the brief and the client's Figma file with the Subyect account Subyect gave him, and opens the exact Figma page the design goes on. Then Claude gets the brief link and the page link.
+
+- 25 Nov 2026. Consistency comes first on Subyect work. Before drawing anything, review the client's earlier pages and frames in the same Figma file (newest first, at least the last 3 batches) and print a consistency receipt: type families, weights and sizes, palette (hex), grid and margins, logo size and placement, CTA style, photo and product treatment, recurring layout devices, and how many frames were reviewed. The client's earlier pages beat generic taste. Every standing workflow rule above still applies (verbatim copy, full editability, safe zones, no microtype, read-back).
+
+- 25 Nov 2026. The paste-in prompt and the drafted automation live in [workflows/subyect-briefs.md](workflows/subyect-briefs.md). For now the workflow is manual: Shresht picks the brief and pastes the prompt with the two links. The automation (checks his channel on a schedule) stays off until Subyect has said automating it is fine.
+
 ## Rejected directions
 
 Each entry shows what was made, his note, and the rule it leaves behind. These are do-not-repeat records, not drafts to revive.
@@ -511,6 +519,7 @@ Meta Ad Library scan, 23 Nov 2026. "Long-running" means the ad has run 30+ days 
 
 ## Changelog
 
+- 25 Nov 2026, evening. New section, Subyect freelance briefs: how a Subyect job starts (a Notion link in his own Slack channel means it's his), a consistency receipt from the client's earlier Figma pages before designing, and the paste-in prompt in workflows/subyect-briefs.md. The scheduled automation is drafted but stays off until Subyect has said it is fine.
 - 25 Nov 2026, morning. Standing workflow rules: Behance house system (cover size and thumbnail test, seamless spacing 0, grounds, 2800 px modules, General Sans + Satoshi, one-line captions, close module), from research/behance-presentations.md.
 - 25 Nov 2026, 3:10am. Standing workflow rules: Behance presentations (Behance-coded and seamless, a show-stopping cover, one house system across all Behance series). Added by Claude on the Mac during the power cut.
 - 25 Nov 2026, 2:20am. Alpha One batch 2 round 3 (9 Figma comments) folded in. Added Rejected directions entry 7. New rules: centre when there's space (Text block alignment); balance the corners and no dead bands (Whitespace); use the full width for body lines (Line breaks); one emphasis device per headline, colour or weight (Hierarchy); logo on a white label card on dark grounds (Other brand rules, replacing the round-2 dark version); hand-drawn comparison marks (Standing workflow rules).
