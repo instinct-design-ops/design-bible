@@ -1,5 +1,7 @@
 # Subyect runner
 
+> **On hold since 26 Nov 2026, from Shresht: the Subyect automation is dropped for now.** Nothing on this page applies until it is brought back. Shresht may revisit it once the Claude in Chrome extension in the team Subyect Chrome profile is signed in. The "Subyect run" scheduled task on the PC is paused, not deleted, so it can be switched back on. Subyect briefs are worked by hand, with the Studio Desk Subyect tab's "Copy prompt for Claude work". Why it stopped: the PC app runs on Shresht's own account, whose Figma can't open Subyect files, and Claude can't operate the separate Claude Work app.
+
 How the team Subyect work gets done by Claude on Shresht's PC. Set 25 Nov 2026, from Shresht; on 26 Nov 2026 he moved the links from Slack to Studio Desk. The live rule is design-bible.md W-13; this file is the runbook it points to.
 
 **Outcome:** Shresht copies each brief's Notion link and the Figma page link and pastes them into the **Subyect** tab of Studio Desk (Add a brief). Claude on the PC picks up the new briefs there, reads each brief in the Subyect Notion workspace, works it on its Figma page, and reports back in Studio Desk. No Slack connection is needed: Shresht is the one who carries the links over.

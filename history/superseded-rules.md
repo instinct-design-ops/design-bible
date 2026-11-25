@@ -4,6 +4,16 @@ Every rule that a newer dated rule replaced, kept word for word so the reasoning
 
 When a rule is replaced: move the old text here (newest first), say what replaced it and where the live version is, and add a changelog line.
 
+## Subyect runner, on hold (25 and 26 Nov 2026)
+
+Original text:
+
+> **W-13** · 25 and 26 Nov 2026, from Shresht. Subyect runner: the team Subyect work is done by Claude on Shresht's PC. Shresht pastes each brief's Notion link and its Figma page link into the Subyect tab of Studio Desk; no Slack connection is used. On a Studio Desk request, a phone message or its hourly scheduled task, the runner picks up the new briefs there, reads each brief in the Subyect Notion workspace, works it on its Figma page, and reports in Studio Desk. Setup and each run follow workflows/subyect-runner.md.
+
+Replaced by: nothing. 26 Nov 2026, from Shresht: "Let's drop the idea of Subyect Automation." The read-only test reached the Notion brief but not Figma (the PC app's Figma account has no access to Subyect files), and Claude can't operate the Claude Work app. He may revisit it once the extension in the team Chrome profile is signed in. The runbook stays in workflows/ marked on hold; the scheduled task is paused. If it comes back, it returns as W-13; the ID is never given to anything else (H-05).
+
+Live rule: none.
+
 ## Subyect runner takes its links from Slack (25 Nov 2026)
 
 Original text:
