@@ -34,6 +34,11 @@ The working rules for how we design ads. Every entry is dated because styles exp
 
 - 25 Nov 2026, from Shresht. Ask which generator before generating any visual: Magnific, Gemini or a free option. Never pick the route yourself. (Tool stack, Ask before every generation.)
 
+- 25 Nov 2026. Studio Desk is where approvals and batch status live (a private claude.ai artifact; its link is pinned in Shresht's claude.ai sidebar and kept in the internal Doc, never in this public repo). Every Claude session (PC, Mac, phone, Instinct, cloud) uses it through the artifact database:
+  - Any call that is Shresht's (which generator, a concept, a re-render, a cover pick, AI background removal, a native look, a copy flag) becomes a document in `approvals`: kind (generator / concept / render / direction / cover / bg / copy / other), title, detail, from (which device), batchId and adId when they apply, options [{label, note}] when there is a choice, status "pending", createdAt. Then wait. Read the answer from status (approved / rejected / answered), choice and reply. Never act on a pending request.
+  - The generator ask is always kind "generator" with three options: Magnific, Gemini, Free option, each with its rough cost.
+  - Batches go in `batches` (client, name, figmaUrl, due, status planning / building / qc / feedback / delivered). Each ad goes in `ads` (batchId, assetId = MPS Asset ID, concept, generator, status todo / building / qc / feedback / approved / delivered, frames v1_1x1 / v1_9x16 / v2_1x1 / v2_9x16, renders {magnific, gemini, free}, qc pending / pass / fail, qcNotes). Update the row as work moves, and add each render to its counter when it is made.
+
 - 25 Nov 2026, from Shresht. No AI-tell microtype: never add eyebrow labels ("Nº 01 — Standard"), tiny tracked-caps labels, numbered callout labels or catalogue index numbers. They flag the work as machine-made. An ad carries the brief's copy, the logo, and graphic devices with no words on them. (Rejected directions, entry 6.) Round 3 adds generic UI icons: circle-badge ✓/× marks "give off a Claude vibe", so comparison marks are hand-drawn (marker strokes, slight rotation, uneven weight). (Entry 7.)
 
 - 25 Nov 2026, from Shresht. Safe-zone margins, as numbers: on 1:1 every text layer, CTA and logo sits at least 108 px from every edge (use 112). On 9:16 copy stays between y 270 and y 1248, between x 65 and x 1015 (use a 90 px side margin), and clear of the Reels icon column (x > 885 below y 1087). Imagery and textless devices may run into the margins. This replaces the 48 px margin taken from his 23 Nov ad 01 edit.
@@ -515,6 +520,7 @@ Meta Ad Library scan, 23 Nov 2026. "Long-running" means the ad has run 30+ days 
 
 ## Changelog
 
+- 25 Nov 2026, evening. Standing workflow rules: Studio Desk, the shared approval inbox and batch tracker every Claude session reads and writes (approvals, batches, ads).
 - 25 Nov 2026, evening. Tool stack: ask before every generation. Before generating any visual, ask Shresht which generator to use (Magnific, Gemini or a free option). Replaces the 23 Nov image generation routing and the 25 Nov regenerate-without-asking clause; budget limits unchanged.
 - 25 Nov 2026, morning. Standing workflow rules: Behance house system (cover size and thumbnail test, seamless spacing 0, grounds, 2800 px modules, General Sans + Satoshi, one-line captions, close module), from research/behance-presentations.md.
 - 25 Nov 2026, 3:10am. Standing workflow rules: Behance presentations (Behance-coded and seamless, a show-stopping cover, one house system across all Behance series). Added by Claude on the Mac during the power cut.
