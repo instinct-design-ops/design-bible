@@ -2,6 +2,7 @@
 
 The running record of every Bible change. Newest on top. Moved from design-bible.md on 25 Nov 2026; entries before that date are unchanged.
 
+- 26 Nov 2026, later. Subyect runbook: Figma pages are worked through Claude in Chrome in the team Subyect Chrome profile, not the Figma connector (which is on Shresht's own account and can't open Subyect files). The extension in that profile signs in to the same claude.ai account as the desktop app. From Shresht.
 - 26 Nov 2026. Workflow W-13 (Subyect runner): links no longer come from Slack. Shresht pastes each brief's Notion link and Figma page link into the Studio Desk Subyect tab, and the runner works the briefs there with status "new" (or "feedback"), moving them to "designing" and then "review". Slack dropped from setup and from each run; the runbook and the scheduled task prompt are updated. Old wording in history/superseded-rules.md. From Shresht.
 - 25 Nov 2026, late night. Workflow W-13 (Subyect runner): Claude on Shresht's PC, signed in with the team Subyect account, works the open links from Slack against their briefs in the Subyect Notion workspace, through the team Subyect Chrome profile and reports in Studio Desk. Runbook in the new workflows/ folder. From Shresht.
 - 25 Nov 2026, late night. Workflow W-09 (Studio Desk): every approval request carries previews of the design it is about (Figma exports as JPEG, about 1080 px), with one picture per option when the choice is visual; each ad row keeps fresh frame previews after every round. From Shresht: previews make each call easier to recall.

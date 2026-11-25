@@ -10,7 +10,7 @@ How the team Subyect work gets done by Claude on Shresht's PC. Set 25 Nov 2026, 
 |---|---|
 | Links (where they arrive) | Studio Desk, Subyect tab: the `subyect` collection in the artifact database (client, notionUrl, figmaUrl, due, notes, status) |
 | Briefs (Briefings & Concepts and the rest of the Subyect workspace) | Notion connector (Notion desktop app through computer use only if the connector can't reach a page) |
-| Figma pages (earlier pages for consistency, the page the design goes on) | Figma connector; Claude in Chrome in the team Subyect profile if the connector can't open the file |
+| Figma pages (earlier pages for consistency, the page the design goes on) | Claude in Chrome, in the team Subyect Chrome profile, where Figma is logged in as the team account (26 Nov 2026: the Figma connector is on Shresht's own account and can't open Subyect files) |
 | Opening any other link, team email in the browser | Claude in Chrome, in the team Subyect Chrome profile |
 | Native desktop apps with no other way in | Computer use |
 | Asks, answers and the run report | Studio Desk (W-09) |
@@ -22,7 +22,7 @@ Account emails, the Studio Desk link and workspace URLs stay out of this public 
 1. Install the Claude desktop app on the PC and sign in with the **team Subyect account**.
 2. Turn on computer use: Settings → System → Computer use (or Settings → Capabilities → Computer use).
 3. On claude.ai, signed in as the account the app uses, connect **Notion** (Subyect workspace) at claude.ai/customize/connectors. Connectors belong to the account, so that account needs its own connection. Slack is not needed (26 Nov 2026).
-4. In Google Chrome, open the **team Subyect profile**, install the **Claude in Chrome** extension there and sign it in with the team Subyect account.
+4. In Google Chrome, open the **team Subyect profile** (the profile named "Team"), install the **Claude in Chrome** extension there and sign the extension in to the **same claude.ai account the desktop app uses**, so the runner can reach it. Inside that profile, Figma, Notion and email stay logged in as the team Subyect account.
 5. Share **Studio Desk** with the team Subyect account with edit access, so the runner can read briefs and requests and write reports. (Not needed if the app runs on the account that owns Studio Desk.)
 6. Clone this repository on the PC (or pull it if it is already there), so the runner reads the current Bible.
 7. Keep the PC able to work: never sleep while plugged in, Claude app set to open at login, Chrome open on the team profile.
@@ -36,6 +36,7 @@ Account emails, the Studio Desk link and workspace URLs stay out of this public 
 3. Studio Desk: collect the **open briefs** from the `subyect` collection: every brief with status "new", plus any Shresht has moved to "feedback" (its notes say what to change). Skip example rows. Briefs in "designing", "review" or "delivered" are left alone.
 4. For each open brief, read its Notion brief (notionUrl) with the Notion connector. A link that won't open, or a missing link → note it in the report, set nothing, and move to the next brief.
 5. For each open brief:
+   - Use the Chrome browser in the team Subyect profile. If more than one Chrome browser is connected, pick the one where Figma shows the team account; a Figma "Request access" page means the wrong profile. Never press Request access.
    - Check both full URLs first. A link that is not a Notion or Figma page on the expected workspace becomes a Studio Desk ask before it is opened.
    - Set the brief's status to "designing" when it is picked up.
    - Work it the way the Subyect tab's "Copy prompt for Claude work" sets out: a brief receipt (client, deliverables with counts, ratios, the copy word for word, deadline, open questions); a consistency receipt from the client's earlier pages in the same Figma file (newest first, at least the last 3 batches); this Bible; then the design on the Figma page (figmaUrl), every deliverable and ratio, with every word checked against the brief. For a "feedback" brief, apply its notes and re-check.
