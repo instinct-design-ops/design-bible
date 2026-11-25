@@ -4,6 +4,16 @@ Every rule that a newer dated rule replaced, kept word for word so the reasoning
 
 When a rule is replaced: move the old text here (newest first), say what replaced it and where the live version is, and add a changelog line.
 
+## Subyect runner takes its links from Slack (25 Nov 2026)
+
+Original text:
+
+> **W-13** · 25 Nov 2026, from Shresht. Subyect runner: the team Subyect work is done by Claude on Shresht's PC, signed in with the team Subyect account. On a Studio Desk request, a phone message or its hourly scheduled task, it checks Slack for open links, matches each to its brief in the Subyect Notion workspace, works it in the team Subyect Chrome profile, and reports in Studio Desk. Setup and each run follow workflows/subyect-runner.md.
+
+Replaced by: 26 Nov 2026, from Shresht: no Slack connection. He pastes each brief's Notion link and Figma page link into the Studio Desk Subyect tab, and the runner works the briefs from there.
+
+Live rule: W-13, workflows/subyect-runner.md
+
 ## Headline weight contrast with the red pay-off on light grounds (25 Nov 2026, round 2)
 
 Original text:
