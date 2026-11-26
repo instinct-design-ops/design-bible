@@ -2,6 +2,7 @@
 
 The running record of every Bible change. Newest on top. Moved from design-bible.md on 25 Nov 2026; entries before that date are unchanged.
 
+- 26 Nov 2026. Workflow W-15, from Shresht: fewer asks. A batch now has two check-ins: one batch-plan request up front (generator for the whole batch, concepts, an extra-render reserve, any non-default direction) and the drop. In between, Claude takes the rules' defaults and lists them at the drop. G-01 asks the generator once per batch, not per render; G-02 extra renders come from the reserve; W-09 keeps working while a request is pending and writes Studio Desk updates in one batch per checkpoint; V-07 asks go in the plan. Old wording in history/superseded-rules.md.
 - 26 Nov 2026. Workflow W-14, from Shresht: a job that needs one of his machines (Chrome and logged-in sites, local files, desktop apps) is sent straight to the connected Mac or PC Claude through Studio Link without asking him, and he is told afterwards. W-13 now points to it.
 - 26 Nov 2026. Workflow W-13, from Shresht: Claude sessions on the PC, Mac, cloud and Instinct talk to each other through Studio Desk's Studio Link thread (msgs) and hand work over as tasks, instead of through Shresht. First use: the cloud session asked PC Claude to bring the earlier LinkedIn posts into the LinkedIn Figma file.
 - 26 Nov 2026. Shresht's own brand: new rule B-07, from Shresht. Every LinkedIn post is built in Figma as editable layers, all in one LinkedIn file with the earlier posts brought in, so Shresht can review, check and tweak each one.

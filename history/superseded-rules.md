@@ -4,6 +4,21 @@ Every rule that a newer dated rule replaced, kept word for word so the reasoning
 
 When a rule is replaced: move the old text here (newest first), say what replaced it and where the live version is, and add a changelog line.
 
+## Ask per render, per re-roll and per call (25 and 26 Nov 2026)
+
+Original text:
+
+> - **G-01** · 25 Nov 2026, from Shresht. Ask before every generation. Before generating any visual, ask Shresht which generator to use (Magnific, Gemini or a free option) through Studio Desk (W-09), and wait for the answer. This covers every job, client or own brand, and every new render, re-roll, clean plate and upscale. The ask names the options with their rough cost and why one fits, then stops. No route is assumed from the job type.
+
+> (from G-02) Two variations per visual, on every generator. Any render beyond those two, even one more re-roll of a single variation, is asked first through Studio Desk with the renders so far attached. Clean plates, re-rolls and higher-res re-renders all count. (Why for Gemini: Alpha One ad 01 once used 8 Gemini calls.)
+
+> (from W-09) Any call that is Shresht's (which generator, a concept, a re-render, a cover pick, AI background removal, a native look, a copy flag) becomes a document in `approvals`: kind (generator / concept / render / direction / cover / bg / copy / other), title, detail, from (which device), batchId and adId when they apply, options [{label, note}] when there is a choice, status "pending", createdAt. Then wait. Read the answer from status (approved / rejected / answered), choice and reply. Never act on a pending request.
+> The generator ask (G-01) is always kind "generator" with three options: Magnific, Gemini, Free option, each with its rough cost.
+
+Replaced 26 Nov 2026, from Shresht, during the Alpha One revision batch: too many permission asks kept him at the screen. Now two check-ins per batch: one batch plan up front (generator, concepts, extra-render reserve, non-default directions), then work on defaults, then the drop. Mid-batch asks only past the reserve, for outward-facing actions, AI edits to his photos, non-live claims or a self-contradicting brief.
+
+Live rule: W-15, G-01, G-02, W-09
+
 ## Generation budgets: Magnific uncapped, Gemini at most 2 per ad (23 and 25 Nov 2026)
 
 Original text:
