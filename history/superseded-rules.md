@@ -4,6 +4,20 @@ Every rule that a newer dated rule replaced, kept word for word so the reasoning
 
 When a rule is replaced: move the old text here (newest first), say what replaced it and where the live version is, and add a changelog line.
 
+## Behance house system: any hand-made script, house colour not yet picked (27 Nov 2026)
+
+Original text (the three phrases that changed inside B-05; everything else is unchanged):
+
+> Lead direction: one hand-made word (script, brush or hand-lettering) set edge to edge [...]
+>
+> The house colour is our own, picked with the first cover's options.
+>
+> [...] plus one hand-made script, free for commercial use, for cover words, divider titles and the close only: never body copy, never more than 3 words.
+
+Replaced 27 Nov 2026, from Shresht: he picked the violet option (C) from the first 3 house covers, so the house colour is electric violet #5B2EFF with a dot grid; and he rejected its dry-brush script as unprofessional, so the script must be clean and refined (no dry brush, rough marker or graffiti).
+
+Live rule: B-05
+
 ## Behance house system: off-white ground, General Sans and Satoshi only (25 Nov 2026)
 
 Original text (the three bullets that changed; the caption bullet is unchanged):
