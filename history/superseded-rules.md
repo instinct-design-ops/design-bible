@@ -4,6 +4,19 @@ Every rule that a newer dated rule replaced, kept word for word so the reasoning
 
 When a rule is replaced: move the old text here (newest first), say what replaced it and where the live version is, and add a changelog line.
 
+## Behance house system: off-white ground, General Sans and Satoshi only (25 Nov 2026)
+
+Original text (the three bullets that changed; the caption bullet is unchanged):
+
+> - **B-05** · 25 Nov 2026. Behance house system:
+>   - Covers 1616 x 1264 JPEG (no GIF), designed for the live 315 x 246 card: one idea, never a wall of ads; title readable at 315 px wide, at most 4 words, one focal point, standing apart from the mostly dark gallery shelf. Module 1 repeats the cover bigger.
+>   - Seamless: module spacing 0 and one ground colour (warm off-white #F4F1EA, plus the hero's own colour at chapter breaks, at most one dark chapter).
+>   - Modules exported 2800 px wide on a 12-column grid with a 200 px outer margin. Type: General Sans (display) + Satoshi (text).
+
+Replaced 27 Nov 2026, from Shresht's favourite Behance project (B-08): the lead cover direction is one hand-made word edge to edge on a textured house colour, the bookend slides sit on that colour in every project, and one hand-made script joins the type for cover words, dividers and the close.
+
+Live rule: B-05
+
 ## Generation budgets: Magnific uncapped, Gemini at most 2 per ad (23 and 25 Nov 2026)
 
 Original text:
