@@ -93,16 +93,17 @@ His notes (9 Figma comments) and the rule each one leaves:
 - Ad 04 1:1: "Why an empty place here?" (the band between the headline and the lower-left body), and of the marks: "make them look a bit more alive. This gives off a claude vibe." Rules: no dead bands between copy groups; comparison marks are hand-drawn, never circle-badge icons.
 - Ad 06 (all four frames): "When there is a color differentiation in the heading, instead of playing with the weight, you're already playing with the color." Rule: one emphasis device per headline (Hierarchy).
 
-### 8. Alpha One batch 2 ads 08-14, the senior's Loom review, 25 Nov 2026 (logged 26 Nov)
+### 8. Alpha One batch 2, the senior's Loom review, 25 Nov 2026 (logged 26 Nov)
 
-What was made: the "Batch 2 - Ads 08-14" section, 8 ads in V1/V2 and 1:1/9:16 (32 frames): quality process, science simplified, modern ID, good questions, buzzwords, curiosity core, information, behind the brand. The renders were Magnific plates with the vial baked in. Every frame used the full logo with its tagline, as a cut-out in a white tab (on light and dark grounds), and 1:1 copy sat at a 48 px margin.
+What was reviewed: the batch 2 frames in the "ALPHA1 LABS | BATCH #2" section. The senior worked mostly on RV-B2-MEETALPHA ("THE DETAILS SET THE STANDARD."), a vial beside a gauge-block stack on granite, and then the red-sphere "VETERAN-OWNED. DRIVEN BY CURIOSITY." ad. The "Batch 2 - Ads 08-14" section (32 frames) had the same faults, found by a layer audit afterwards.
 
-Shresht's senior reviewed it in a 5-minute Loom ("Alpha One Creative Feedback and Logo Fixes"), chapters: 00:00 quick feedback overview, 00:55 improve file hygiene, 03:05 fix font and hierarchy, 04:06 match website product look. Taken from the Loom's chapter list and summary; the transcript itself was not read in this session.
+The senior recorded a 5-minute Loom ("Alpha One Creative Feedback and Logo Fixes") in a copy of the file. Shresht shared a screen recording of it without audio, and it was watched frame by frame; what he did on screen is the evidence.
 
-The notes and the rule each one leaves:
+What he did and the rule each step leaves:
 
-- The cut-out logo left a white background and shadow artefacts; replace it with the clean version and make it bigger so it is more visible. Rules: design-bible.md Q-14, AO-17.
-- Production hygiene: assets cut up inconsistently or set up in a way that limits repositioning; consolidate assets instead of unnecessary variants. Rule: design-bible.md Q-13, with the audit findings in AO-20 and AO-21.
-- Turn on Case-sensitive forms in the type options to fix the "Alpha1" character. Rule: design-bible.md Q-05 and AO-10, which replace the 23 Nov "font's design, pass it" exception.
-- Use a Figma plugin to pull in the website, so the vials match the product customers see. Rule: design-bible.md W-14, AO-18.
-- Shown by the same section: rules Shresht had already given (no tagline, no tab on light grounds, 112 px margins) were broken again. Rule: AO-19.
+- Zoomed into the "Logo | Alpha1 Labs (no tagline)" layer on the granite ground: a cut-out with a light matte and shadow round it. He replaced it with the clean logo taken from the imported website, at about 270 px wide on 1:1 instead of 188, and laid the two website versions (dark "LABS" and silver "LABS") side by side. Rules: Q-14, AO-17, and open question AO-23.
+- Dragged the product cut-out off the plate: the "product removed" plate still held a ghost vial, a red cap smear and a cut rectangle. Dragged both plates: cropped flush, no bleed. Opened another studio's file as an example of clean structure. Rules: Q-13, AO-20, AO-21.
+- Split the body into a lead line ("Say hello to Alpha1 Labs." at about 46 px) and one full-width supporting line. Rules: L-30, AO-22.
+- Opened Type details > Letter case > Case-sensitive forms on the body until "Alpha1" read with a proper 1. Rules: Q-05 and AO-10, replacing the 23 Nov "font's design, pass it" exception.
+- Imported www.alpha1labs.net with html.to.design and scrolled to the product cards: crimp-cap 3 mL vials, labelled, with boxes. Then selected the screw-cap vial in the red-sphere ad. Rules: W-14, AO-18.
+- Shown by the 08-14 section: rules Shresht had already given (no tagline, no tab on light grounds, 112 px margins) were broken again. Rule: AO-19.
