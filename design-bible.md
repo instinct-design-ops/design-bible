@@ -41,6 +41,11 @@ The rules in force for how Shresht's ads and own-brand work are designed. This f
 - **W-10** · 22 Nov 2026. Scale anchors: each product gets a lock entry in its client file with one verbatim real-world-size sentence from the client's own specs or site, injected into every render prompt. QC measures the rendered ratio against it.
 - **W-11** · 22 Nov 2026. Claims register: every factual claim used in a client's ads is a row in its client file (claim, source, status live / unverified / blocked, last verified). Re-verify against the client's live site before use, and refuse non-live claims.
 - **W-12** · 22 Nov 2026. Instinct executes ad batches under these rules (Shresht handed batch execution back on 21 Nov).
+- **W-13** · 26 Nov 2026, from Shresht. Claude sessions talk to each other through Studio Desk's Studio Link section (the Conversation thread and its task queue), not through Shresht as a go-between. PC, Mac, cloud and Instinct sessions all use it, and Shresht reads the same thread.
+  - Messages are `msgs` documents: ts, at, from (pc-claude, mac-claude, cloud-claude, instinct-claude), to (pc, mac, both or shresht), text, wake false, and re (the id of the message being answered). Document id: the timestamp in base 36, the sender and four random characters.
+  - Work for another machine is a `tasks` document: to (pc or mac), from, kind "task", status "queued", msgId (the thread message its report goes back to) and text. The text stands alone: goal, links, files, the rules to read and what to report. The Studio Link app on that machine runs it when Shresht is away or once he approves it, and posts the report in the thread. A Claude never sets runNow on a task; that shortcut is Shresht's.
+  - Every session reads the thread at the start of work and before finishing, answers what is addressed to its machine or to both, with re set, and says what it did. A cloud session has no machine: it signs as cloud-claude and watches for answers to its own messages.
+  - Approvals still go to Shresht through `approvals` (W-09); the thread is for Claude-to-Claude handovers and status.
 
 ## G · Generation and tools
 
