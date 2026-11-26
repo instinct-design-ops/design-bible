@@ -4,6 +4,16 @@ Every rule that a newer dated rule replaced, kept word for word so the reasoning
 
 When a rule is replaced: move the old text here (newest first), say what replaced it and where the live version is, and add a changelog line.
 
+## Behance house system: cover filled with real project work (27 Nov 2026, 2:10am)
+
+Original text (one clause inside B-05):
+
+> [...] no large area is left empty; real work from the project may fill the rest.
+
+Replaced 27 Nov 2026, from Shresht, on the heavy round: "maybe don't use the ads from the previous designs? I think you can add the ads, which I think you can generate as stock ads for the cover image." Cover ad cards are now stock ads made for the cover, with invented brands.
+
+Live rule: B-05
+
 ## Behance house system: hand-made script cover word, small facts (27 Nov 2026, 2am)
 
 Original text (the phrases that changed inside B-05; the house colour and everything else are unchanged):
