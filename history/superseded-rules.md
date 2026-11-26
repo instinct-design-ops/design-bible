@@ -4,6 +4,20 @@ Every rule that a newer dated rule replaced, kept word for word so the reasoning
 
 When a rule is replaced: move the old text here (newest first), say what replaced it and where the live version is, and add a changelog line.
 
+## Old-style "1" passed as the font's design (22, 23 Nov 2026)
+
+Original text, design-bible.md:
+
+> - **Q-05** · 22 and 23 Nov 2026. Blind read-back on all rendered text: transcribe every glyph from the pixels without looking at the source copy, then diff. Mismatches fail the frame. Exception: an old-style figure in a serif body face (a "1" that reads like a short dotless i) is the font's design, not a wrong glyph; if the client's approved earlier work sets it the same way, note it once and pass the frame.
+
+Original text, clients/alpha-one-labs.md:
+
+> - **AO-10** · 23 Nov 2026. "Alpha1" set in the serif body shows an old-style 1 that reads like a short dotless i. It is the font's design and matches the approved earlier work, so QC passes it (design-bible.md Q-05). Switching to lining figures is Shresht's call (Figma: Type details > Numbers > Lining); the question is waiting in Studio Desk.
+
+Replaced 26 Nov 2026, from Shresht's senior (Loom review of Alpha One batch 2): turn on Case-sensitive forms (or Lining numbers) so "Alpha1" reads as Alpha-one. A figure that reads as the wrong character fails read-back even when it is the font's design.
+
+Live rule: Q-05, AO-10
+
 ## Generation budgets: Magnific uncapped, Gemini at most 2 per ad (23 and 25 Nov 2026)
 
 Original text:

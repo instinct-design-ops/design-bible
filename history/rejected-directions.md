@@ -92,3 +92,17 @@ His notes (9 Figma comments) and the rule each one leaves:
 - Ad 03 1:1: "how much spacing there is on the top-left corner and how much spacing is in the lower-right corner? ...balance spacing overall." Rule: opposite corners get matching margins; the product gets the type's margin (Whitespace).
 - Ad 04 1:1: "Why an empty place here?" (the band between the headline and the lower-left body), and of the marks: "make them look a bit more alive. This gives off a claude vibe." Rules: no dead bands between copy groups; comparison marks are hand-drawn, never circle-badge icons.
 - Ad 06 (all four frames): "When there is a color differentiation in the heading, instead of playing with the weight, you're already playing with the color." Rule: one emphasis device per headline (Hierarchy).
+
+### 8. Alpha One batch 2 ads 08-14, the senior's Loom review, 25 Nov 2026 (logged 26 Nov)
+
+What was made: the "Batch 2 - Ads 08-14" section, 8 ads in V1/V2 and 1:1/9:16 (32 frames): quality process, science simplified, modern ID, good questions, buzzwords, curiosity core, information, behind the brand. The renders were Magnific plates with the vial baked in. Every frame used the full logo with its tagline, as a cut-out in a white tab (on light and dark grounds), and 1:1 copy sat at a 48 px margin.
+
+Shresht's senior reviewed it in a 5-minute Loom ("Alpha One Creative Feedback and Logo Fixes"), chapters: 00:00 quick feedback overview, 00:55 improve file hygiene, 03:05 fix font and hierarchy, 04:06 match website product look. Taken from the Loom's chapter list and summary; the transcript itself was not read in this session.
+
+The notes and the rule each one leaves:
+
+- The cut-out logo left a white background and shadow artefacts; replace it with the clean version and make it bigger so it is more visible. Rules: design-bible.md Q-14, AO-17.
+- Production hygiene: assets cut up inconsistently or set up in a way that limits repositioning; consolidate assets instead of unnecessary variants. Rule: design-bible.md Q-13, with the audit findings in AO-20 and AO-21.
+- Turn on Case-sensitive forms in the type options to fix the "Alpha1" character. Rule: design-bible.md Q-05 and AO-10, which replace the 23 Nov "font's design, pass it" exception.
+- Use a Figma plugin to pull in the website, so the vials match the product customers see. Rule: design-bible.md W-14, AO-18.
+- Shown by the same section: rules Shresht had already given (no tagline, no tab on light grounds, 112 px margins) were broken again. Rule: AO-19.
