@@ -4,6 +4,18 @@ Every rule that a newer dated rule replaced, kept word for word so the reasoning
 
 When a rule is replaced: move the old text here (newest first), say what replaced it and where the live version is, and add a changelog line.
 
+## Behance house system: hand-made script cover word, small facts (27 Nov 2026, 2am)
+
+Original text (the phrases that changed inside B-05; the house colour and everything else are unchanged):
+
+> Lead direction: one hand-made word (a clean, refined script or hand-lettering) set edge to edge over one saturated house colour with a grid or paper texture, a ghosted giant word behind it, facts set small.
+>
+> [...] plus one hand-made script, free for commercial use, for cover words, divider titles and the close only: never body copy, never more than 3 words. The script must look professional: clean, even strokes, no dry brush, rough marker or graffiti. In his words (27 Nov 2026), on the dry-brush cover: "I don't like the font. We need to use a professional font which really looks good and professional."
+
+Replaced 27 Nov 2026, from Shresht, on the professional-script round: "Something more heavy. The cover looks a bit too empty right now, and the font weight should be really heavy, so it is on the face. Even if it's really small, people can make out what is written there." The cover word is now a black-weight font that fills the card, with bigger, bolder facts and no large empty areas.
+
+Live rule: B-05
+
 ## Behance house system: any hand-made script, house colour not yet picked (27 Nov 2026)
 
 Original text (the three phrases that changed inside B-05; everything else is unchanged):
