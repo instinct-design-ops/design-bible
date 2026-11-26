@@ -45,9 +45,9 @@ The rules in force for how Shresht's ads and own-brand work are designed. This f
 ## G · Generation and tools
 
 - **G-01** · 25 Nov 2026, from Shresht. Ask before every generation. Before generating any visual, ask Shresht which generator to use (Magnific, Gemini or a free option) through Studio Desk (W-09), and wait for the answer. This covers every job, client or own brand, and every new render, re-roll, clean plate and upscale. The ask names the options with their rough cost and why one fits, then stops. No route is assumed from the job type.
-- **G-02** · 23 and 25 Nov 2026. Budgets once a route is chosen.
-  - Magnific: no cap on generations, but never at 4K, because 4K burns credits much faster. Render at 2K or lower, and upscale the chosen render only when a crop truly needs more pixels.
-  - Gemini: at most 2 generated images per ad; clean plates, re-rolls and higher-res re-renders all count. Show Shresht the concept and get a yes before any Gemini regeneration. (Why: Alpha One ad 01 once used 8 Gemini calls.)
+- **G-02** · 23 Nov, 25 Nov and 26 Nov 2026, from Shresht. Budgets once a route is chosen.
+  - Every generator: never 4K. Render at 2K ("2K works"); upscale the chosen render only when a crop truly needs more pixels.
+  - Two variations per visual, on every generator. Any render beyond those two, even one more re-roll of a single variation, is asked first through Studio Desk with the renders so far attached. Clean plates, re-rolls and higher-res re-renders all count. (Why for Gemini: Alpha One ad 01 once used 8 Gemini calls.)
   - Report the image count per ad and the batch total, and log each render in the ad's Studio Desk row.
 - **G-03** · Tool facts for the ask (context, not a default route):
   - Magnific connector, Business plan (connected 23 Nov 2026). Used for Roveir client work so far. A free Magnific account also exists.

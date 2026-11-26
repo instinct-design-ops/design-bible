@@ -4,6 +4,19 @@ Every rule that a newer dated rule replaced, kept word for word so the reasoning
 
 When a rule is replaced: move the old text here (newest first), say what replaced it and where the live version is, and add a changelog line.
 
+## Generation budgets: Magnific uncapped, Gemini at most 2 per ad (23 and 25 Nov 2026)
+
+Original text:
+
+> - **G-02** · 23 and 25 Nov 2026. Budgets once a route is chosen.
+>   - Magnific: no cap on generations, but never at 4K, because 4K burns credits much faster. Render at 2K or lower, and upscale the chosen render only when a crop truly needs more pixels.
+>   - Gemini: at most 2 generated images per ad; clean plates, re-rolls and higher-res re-renders all count. Show Shresht the concept and get a yes before any Gemini regeneration. (Why: Alpha One ad 01 once used 8 Gemini calls.)
+>   - Report the image count per ad and the batch total, and log each render in the ad's Studio Desk row.
+
+Replaced 26 Nov 2026, from Shresht: never 4K on any generator (2K works), two variations per visual on every generator, any render beyond those two, even one more re-roll of a single variation, asked first.
+
+Live rule: G-02
+
 ## Headline weight contrast with the red pay-off on light grounds (25 Nov 2026, round 2)
 
 Original text:
