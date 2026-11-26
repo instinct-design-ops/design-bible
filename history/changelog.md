@@ -2,6 +2,7 @@
 
 The running record of every Bible change. Newest on top. Moved from design-bible.md on 25 Nov 2026; entries before that date are unchanged.
 
+- 26 Nov 2026. Workflow W-13, from Shresht: Claude sessions on the PC, Mac, cloud and Instinct talk to each other through Studio Desk's Studio Link thread (msgs) and hand work over as tasks, instead of through Shresht. First use: the cloud session asked PC Claude to bring the earlier LinkedIn posts into the LinkedIn Figma file.
 - 26 Nov 2026. Shresht's own brand: new rule B-07, from Shresht. Every LinkedIn post is built in Figma as editable layers, all in one LinkedIn file with the earlier posts brought in, so Shresht can review, check and tweak each one.
 - 26 Nov 2026. Generation G-02, from Shresht: never 4K on any generator (2K works); two variations per visual on every generator; any render beyond those two, even one more re-roll of a single variation, is asked first. Replaces the uncapped Magnific budget and the 2-per-ad Gemini cap; the old wording is in history/superseded-rules.md.
 - 26 Nov 2026. Shresht's own brand: new rule B-06, from Shresht. Every LinkedIn sample-ad post gets a fresh product mockup, and the product varies post to post across any D2C category (socks, skincare, coffee, sneakers and more), not only supplement bottles or health. Category and pack form differ from the last 6 posts; brands are invented and labelled as samples.
