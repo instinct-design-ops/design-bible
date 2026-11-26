@@ -104,6 +104,8 @@ A frame that fails any rule in this section does not ship to Shresht.
   - A retro-UI tab bar with the current step highlighted can work as a progress device.
   - One short caption pill and one big headline per frame: the pill carries the sentence, the headline carries the idea.
   - Reference set: reference/style-directions.md.
+- **V-10** · 27 Nov 2026, from Shresht's hand edits (W-08). "Add more elements" means one stronger device, not several. On Kesto he deleted 4 of the 5 marker doodles (pressure arrows, flattened-sole marks, bounce arcs, the circle around MAY) and kept only the bounce burst, nudged out to the shoe's toe. A doodle earns its place only when it explains the motion or the claim. Never add a second emphasis to a headline that already has one: the grey/black colour split already emphasised MAY (L-25).
+- **V-11** · 27 Nov 2026, from Shresht's hand edits (W-08). Handwriting on an object in the photo is rotated to match the object, never skewed or perspective-warped: the skew distorts the letterforms and reads as fake. Size the ink to fill the object, with margins. Mutt & Mill: a plain 14° rotation and larger Caveat replaced the affine skew.
 
 ## L · Layout
 
@@ -125,6 +127,8 @@ A frame that fails any rule in this section does not ship to Shresht.
 - **L-08** · 23 Nov 2026. One logo, placed once, never the biggest element on the ad.
 - **L-09** · 23 Nov 2026. The logo counter-balances the layout: it goes on the light side of the frame, not onto the heavy side.
 - **L-10** · 23 Nov 2026. The logo sits on clean ground with clear space of at least half its own height on all sides, never over a busy part of the image.
+- **L-30** · 27 Nov 2026, from Shresht's hand edits (W-08). The product's own label counts as the logo. When the pack, tube or bottle shows the brand clearly, drop the separate wordmark; one brand mark per ad (L-08). He deleted the SOLENNE wordmark from the 4:5 because the tube already says it, and moved the CTA into the freed bottom-left slot.
+- **L-31** · 27 Nov 2026, from Shresht's hand edits (W-08). Take the logo out of the copy stack. Put it in a quiet corner or a centred top slot that counterweights the layout (L-07, L-09), not stacked beside the headline. On Kesto he moved it to the bottom-right corner on 4:5 and top centre on 9:16.
 
 ### Text block alignment
 
@@ -138,6 +142,8 @@ A frame that fails any rule in this section does not ship to Shresht.
 - **L-15** · 23 Nov 2026. Margins and gaps come from one small spacing scale (multiples of one base unit), the same across every ad in a batch.
 - **L-16** · 25 Nov 2026, from Shresht. Balance the corners: the margin at one corner matches the margin at the opposite corner, and a product sitting low-right gets the same margin as the type at top-left (112 px on 1:1). No dead empty band between copy groups and no dead quadrant ("Why an empty place here?").
 - **L-17** · 23 Nov 2026. Gaps inside a group of related elements are smaller than gaps between groups.
+- **L-32** · 27 Nov 2026, from Shresht's hand edits (W-08). Give the copy under a prop room to breathe. When the body and CTA sit below an object in the photo (a note, a label), drop them clearly below it and indent them to line up with the object, rather than tucking them against its edge. Mutt & Mill: body and CTA moved right and down, clear of the sticky note.
+- **L-33** · 27 Nov 2026, from Shresht's hand edits (W-08). A line and its illustration read as one unit. Close the gap between a hook and the drawing that belongs to it, and keep clear air above the product's key detail. Wick Theory card 1: the hook moved up under the cabin line art, away from the flame.
 - **L-18** · 23 Nov 2026. Keep text under about a fifth of the ad area.
 
 ### Line breaks
@@ -156,6 +162,8 @@ A frame that fails any rule in this section does not ship to Shresht.
 - **L-27** · 23 Nov 2026. The scan order is designed: headline, then visual, then subline, then CTA and logo. Check with a 2-second flash test.
 - **L-28** · 24 Nov 2026. Hook weight beats hook size: set hooks in bold to black weights; light weights are for supporting lines.
 - **L-29** · 21 and 23 Nov 2026. Headlines on red, dark or black grounds go all white. Flat red shapes get texture or pattern, never a bare flat fill.
+- **L-34** · 27 Nov 2026, from Shresht's hand edits (W-08). Condensed display headlines over two lines get about 100% leading, never the 90-92% default: Anton at 92% looked crushed on Halvane, and he opened it to about 100%.
+- **L-35** · 27 Nov 2026, from Shresht's hand edits (W-08). When the headline is the hero (a pull quote or testimonial), scale it up to span nearly the full frame width and lift the block. Don't box it into a narrow measure. Solenne 9:16: 124 to 141 px, box widened to 1024 px, with the quote mark scaled to match; mirrored on the 4:5.
 
 ## C · Copy
 
@@ -192,3 +200,4 @@ A frame that fails any rule in this section does not ship to Shresht.
   - Take: one expressive hand-made word on one flat, textured colour as the cover; hand-made type over a technical texture (grid, blueprint) for warmth; a ghosted giant word behind for depth; fixed bookends (cover, intro, contents, identical chapter dividers, a close that mirrors the cover) with each project free inside; context mock-ups for anything that lives in the world, flats only for flat things.
   - Don't copy her look: not her blue, lace-doily and red-script mix, her "Portfolio" lettering or her polaroid and doodle set. Visual reference only. Full study: research/behance-presentations.md section 6.
   - 27 Nov 2026 update: for the cover word he wants a heavy font on a full card, not a script (B-05). The rest of the take stands.
+- **B-09** · 27 Nov 2026, from Shresht. Every Behance module is a self-contained slide. Behance opens a clicked module on its own, so nothing may be cut at a slide edge. Ghosted words sit fully inside one slide. A continuous line crosses each seam at the same point, so it stays seamless when the slides are stacked. Cards fit inside the 1400 px width with margins. Before export, audit every layer against every slice edge.
