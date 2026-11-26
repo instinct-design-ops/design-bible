@@ -169,3 +169,8 @@ A frame that fails any rule in this section does not ship to Shresht.
   - Seamless: module spacing 0 and one ground colour (warm off-white #F4F1EA, plus the hero's own colour at chapter breaks, at most one dark chapter).
   - Modules exported 2800 px wide on a 12-column grid with a 200 px outer margin. Type: General Sans (display) + Satoshi (text).
   - Each ad gets one subtitle-style caption line in the ads' voice; no "The Challenge / The Solution" labels, eyebrows or pill tags. Show context once (a real feed view), then large flats; no tilted 3D stacks. Always end on a close module (principles + contact). Full system: research/behance-presentations.md section 5.
+- **B-06** · 26 Nov 2026, from Shresht. Every LinkedIn sample-ad post gets a new product mockup, made for that post; a render is never reused across posts.
+  - Vary the product, not just the layout: it doesn't always have to be a supplement bottle, and it doesn't have to be health. Any D2C product works: socks, skincare, coffee, sneakers, candles, headphones, pet food, snacks, drinkware, kitchenware, haircare, stationery, swimwear, and anything else that makes a good ad.
+  - The product category differs from the last 6 posts (the same window as B-02), and the pack form changes too (bottle, tube, pouch, can, box, jar, folded garment, the object itself), so the feed shows range.
+  - The brand on the pack is invented for the sample and carries the sample-ad label; never a real brand's name, logo or packaging.
+  - Craft rules still hold: the scene says the headline (V-06), imagery looks built, not generated, with no fake-real AI people (V-08), and the generator is asked before each render (G-01).
