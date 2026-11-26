@@ -4,6 +4,16 @@ Every rule that a newer dated rule replaced, kept word for word so the reasoning
 
 When a rule is replaced: move the old text here (newest first), say what replaced it and where the live version is, and add a changelog line.
 
+## Alpha One logo on a white label card on dark grounds (25 Nov 2026, round 3)
+
+Original text, clients/alpha-one-labs.md:
+
+> - **AO-05** · 25 Nov 2026, round 3. On dark grounds (black, graphite, crimson) the tagline-free logo sits on a white label card: "the logo should be on a white label because the background is dark."
+
+Replaced 26 Nov 2026, from Shresht's senior (Loom review): he made a dark-ground version of the logo (silver-white "LABS"), used straight on the ground with no card.
+
+Live rule: AO-05
+
 ## Old-style "1" passed as the font's design (22, 23 Nov 2026)
 
 Original text, design-bible.md:

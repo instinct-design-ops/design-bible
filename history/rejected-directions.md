@@ -97,13 +97,13 @@ His notes (9 Figma comments) and the rule each one leaves:
 
 What was reviewed: the batch 2 frames in the "ALPHA1 LABS | BATCH #2" section. The senior worked mostly on RV-B2-MEETALPHA ("THE DETAILS SET THE STANDARD."), a vial beside a gauge-block stack on granite, and then the red-sphere "VETERAN-OWNED. DRIVEN BY CURIOSITY." ad. The "Batch 2 - Ads 08-14" section (32 frames) had the same faults, found by a layer audit afterwards.
 
-The senior recorded a 5-minute Loom ("Alpha One Creative Feedback and Logo Fixes") in a copy of the file. Shresht shared a screen recording of it without audio, and it was watched frame by frame; what he did on screen is the evidence.
+The senior recorded a 5-minute Loom ("Alpha One Creative Feedback and Logo Fixes") in a copy of the file. Shresht shared screen recordings of it; the audio was transcribed and the video watched frame by frame. The Loom stops mid-sentence at its 5-minute cap.
 
 What he did and the rule each step leaves:
 
-- Zoomed into the "Logo | Alpha1 Labs (no tagline)" layer on the granite ground: a cut-out with a light matte and shadow round it. He replaced it with the clean logo taken from the imported website, at about 270 px wide on 1:1 instead of 188, and laid the two website versions (dark "LABS" and silver "LABS") side by side. Rules: Q-14, AO-17, and open question AO-23.
-- Dragged the product cut-out off the plate: the "product removed" plate still held a ghost vial, a red cap smear and a cut rectangle. Dragged both plates: cropped flush, no bleed. Opened another studio's file as an example of clean structure. Rules: Q-13, AO-20, AO-21.
+- Zoomed into the "Logo | Alpha1 Labs (no tagline)" layer on the granite ground: a cut-out with a light matte and shadow round it. He replaced it with the clean logo taken from the imported website, at about 270 px wide on 1:1 instead of 188, and showed the dark-ground version he made (silver "LABS"): "I went ahead and made a version of the logo that works on dark backgrounds." Rules: Q-14, AO-17, AO-05 (the white card is retired).
+- Dragged the product cut-out off the plate: the "product removed" plate still held a ghost vial, a red cap smear and a cut rectangle. Dragged both plates: cropped flush, no bleed, and a separate plate per ratio ("No reason to have that many images for each one"). Opened another studio's file as an example of clean structure. Rules: Q-13, AO-20, AO-21.
 - Split the body into a lead line ("Say hello to Alpha1 Labs." at about 46 px) and one full-width supporting line. Rules: L-30, AO-22.
 - Opened Type details > Letter case > Case-sensitive forms on the body until "Alpha1" read with a proper 1. Rules: Q-05 and AO-10, replacing the 23 Nov "font's design, pass it" exception.
-- Imported www.alpha1labs.net with html.to.design and scrolled to the product cards: crimp-cap 3 mL vials, labelled, with boxes. Then selected the screw-cap vial in the red-sphere ad. Rules: W-14, AO-18.
+- Imported www.alpha1labs.net with html.to.design and scrolled to the product cards: crimp-cap 3 mL vials, labelled, with boxes. Then selected the screw-cap vial in the red-sphere ad. Labels stay blank ("we can't use like the actual labels"); the vial shape and cap must match. Rules: W-14, AO-18, AO-23.
 - Shown by the 08-14 section: rules Shresht had already given (no tagline, no tab on light grounds, 112 px margins) were broken again. Rule: AO-19.
