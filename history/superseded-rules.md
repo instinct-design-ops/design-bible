@@ -4,6 +4,16 @@ Every rule that a newer dated rule replaced, kept word for word so the reasoning
 
 When a rule is replaced: move the old text here (newest first), say what replaced it and where the live version is, and add a changelog line.
 
+## Behance house system: cover ad cards are stock ads made for the cover (27 Nov 2026, 2:30am)
+
+Original text (one clause inside B-05):
+
+> Ad cards may fill the rest: stock ads made for the cover (invented brands, product renders asked first under G-01, type set on top), not ads from earlier client designs (Shresht, 27 Nov 2026: "don't use the ads from the previous designs").
+
+Replaced 27 Nov 2026, about 2:55am, from Shresht, when the cover moved to a new one-brand project: "Swap the cover cards for that brand's ads". The cards now come from the project the cover fronts.
+
+Live rule: B-05
+
 ## Behance house system: cover filled with real project work (27 Nov 2026, 2:10am)
 
 Original text (one clause inside B-05):
