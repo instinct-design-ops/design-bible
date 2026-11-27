@@ -2,6 +2,15 @@
 
 Dated finds from the daily layout research (Job A) and the weekly winning-ads scan (Job B). Newest on top. Visual references only, never assets to copy. Moved from design-bible.md on 25 Nov 2026; new finds are added here, not to design-bible.md.
 
+## 27 Nov 2026 - LinkedIn to design
+
+From the 8am LinkedIn run. Fictional brand; design lessons only.
+
+- 27 Nov 2026. Sign-panel card for spec lists: a black header bar over ruled rows in one DIN-like grotesk shows a "what's inside" or spec list on a food or supplement static without bullet clutter (signage-utilitarian trend, designrush.com and digitalsynopsis.com 2026 trend round-ups). Why it works: the ruled rows do the job of bullets and read as a real label.
+- 27 Nov 2026. Brief card beside the ad it produced, one arrow between: inputs on the left, output on the right. Passed the thumbnail test with a 116 px headline and the product at about 60% of the ad's height. Why it works: the before-and-after is the whole story at a glance.
+- 27 Nov 2026. An offer chip never touches the product: the first build had it over the pouch's corner; moved to the bottom-left, the product reads whole. Confirms L-10's clear-space logic for every badge, not only the logo.
+- 27 Nov 2026. A blank label on a rendered pack carries the brand as live type, which keeps the pack editable (Q-01, B-07).
+
 ## 27 Nov 2026 - Daily layout research
 
 Job A, fallback scan (no new layout candidates in the desk since 24 Nov). Source tested: Ads of the World print statics. Visual references only, never assets to copy; health claims in these ads come from their own briefs, ours only from the claims register.

@@ -4,6 +4,28 @@ Every rule that a newer dated rule replaced, kept word for word so the reasoning
 
 When a rule is replaced: move the old text here (newest first), say what replaced it and where the live version is, and add a changelog line.
 
+## Generator ask options, Magnific line and the Gemini watermark question (27 Nov 2026, retro)
+
+Original text, W-09 bullet:
+
+> The generator ask (G-01) is always kind "generator" with three options: Magnific, Gemini, Free option, each with its rough cost.
+
+Original text, G-01 opening:
+
+> Ask before every generation. Before generating any visual, ask Shresht which generator to use (Magnific, Gemini or a free option) through Studio Desk (W-09), and wait for the answer.
+
+Original text, G-03 Magnific line:
+
+> Magnific connector, Business plan (connected 23 Nov 2026). Used for Roveir client work so far. A free Magnific account also exists.
+
+Original text, G-07:
+
+> Open question, raised 21 Nov 2026: the watermark Gemini leaves on generated images. Unresolved.
+
+Replaced 27 Nov 2026 from Shresht: Magnific is the agency's account and never used for his own work ("We don't want to use that Magnific account for our personal use, so never do that"), so the own-work ask offers Gemini and a free option only; and Gemini's visible sparkle is erased with Figma's AI tools ("try to get rid of the Gemini watermark by using the pro tools on Figma").
+
+Live rules: W-09, G-01, G-03, G-07, G-08
+
 ## Behance house system: cover ad cards are stock ads made for the cover (27 Nov 2026, 2:30am)
 
 Original text (one clause inside B-05):
