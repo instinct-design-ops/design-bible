@@ -50,6 +50,18 @@ Shresht re-laid ad 01 V1 1x1 by hand and asked for the same changes on the 9:16.
 
 (The 48 px margin from this edit is replaced by design-bible.md Q-02.)
 
+## Lessons from Shresht's own edits of batch 2 round 4 (27 Nov 2026)
+
+Shresht re-laid the V1 1x1 of five batch 2 ads by hand ("Look what I did here... do the same to the next variations and resizes"). Each change was mirrored on V1 9x16, V2 1x1 and V2 9x16 on 28 Nov 2026.
+
+- **AO-17** · A secondary product copy as an out-of-focus foreground element goes. He deleted the blurred foreground vial (Science of Asking) and scaled the sharp vial up 1.17x instead, with its frame device scaled with it. One sharp product, bigger.
+- **AO-18** · Small products get presence. A vial standing in a scene (the red niche, Behind Details) was scaled 2.07x from its base, so it fills the niche rather than sitting small in it.
+- **AO-19** · A two-sentence headline whose sentences do different jobs can split into two sizes: the set-up line small in black (about 67 px), the pay-off big in red (about 119 px, two lines). Size and colour carry it together (Research, "KNOW THE LANGUAGE. / ASK SHARPER QUESTIONS."). This is his exception to design-bible.md L-25 for this layout.
+- **AO-20** · A decorative device that crowds the product moves to a corner and bleeds off the frame. The molecule diagram went from behind the product to the top-right corner, with the drawing starting at the text measure's right edge. On 9x16 he flagged the device and product overlapping: "They both don't look good together."
+- **AO-21** · A lead sentence: when the body's first sentence fits the full measure, set it on one line about 1.23x the body size (39 px against 32 px on 1x1), and the next sentence at body size below it. Equal 51 px gaps from hook to lead to body to CTA (Curiosity).
+- **AO-22** · A knolling set reads better as a full-frame flat-lay plate with more objects (slides, a loose cap) than as a cutout on a plain plate. Headline lowered to y 154, body up 1.2x (38.4 px on 1x1), gaps of 68 px (hook to body) and 76 px (body to CTA) (Details).
+- **AO-23** · Check plates for render smudges near edges before delivery. A pink blur under the niche's bottom-right lip ("Fix this blur thing") went unnoticed in round 3. It is now covered by an editable patch layer, with the original plate left untouched.
+
 ## Ideas queued for the next batch
 
 - 24 Nov 2026, from the research feed. Giant-number headline: a checkable testing or purity figure from the claims register as the biggest mass, the empty vial overlapping the numerals, in batch 1's heavy uppercase sans. Suggest it to Shresht first.
