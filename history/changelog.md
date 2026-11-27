@@ -2,6 +2,7 @@
 
 The running record of every Bible change. Newest on top. Moved from design-bible.md on 25 Nov 2026; entries before that date are unchanged.
 
+- 27 Nov 2026, 10:30am. Research feed: Job A layout study (fallback scan, Ads of the World print statics): one-hue mood scene, small copy in the scene's open area, one hand-drawn mark on the turn phrase, one-row sign-off lockup, quote-and-rebut headline; try next: a one-hue scenario scene for Lucori. Added by Claude on the Mac.
 - 27 Nov 2026, 2:55am. B-05 updated from Shresht: ad cards on a Behance cover come from the project it fronts (for a one-brand project, 3 of its own ads), and a cover goes on a new project, never an existing one unless he names it ("Swap the cover cards for that brand's ads"). The old clause is in history/superseded-rules.md. Added by Claude on the Mac.
 - 27 Nov 2026, 2:30am. B-05 updated from Shresht: ad cards on a Behance cover are stock ads made for it (invented brands, renders asked first), not ads from earlier client designs. The old clause is in history/superseded-rules.md. Added by Claude on the Mac.
 - 27 Nov 2026, 2:10am. B-05 updated from Shresht: Behance cover words are set in a black-weight font that fills the card and reads at 80 px, with bold facts and no large empty areas, replacing the hand-made script ("the font weight should be really heavy, so it is on the face"). B-08 notes the change. The old wording is in history/superseded-rules.md. Added by Claude on the Mac.
