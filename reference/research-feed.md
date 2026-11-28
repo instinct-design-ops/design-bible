@@ -1,6 +1,6 @@
 # Research feed
 
-Dated finds from the daily layout research (Job A) and the weekly winning-ads scan (Job B). Newest on top. Visual references only, never assets to copy. Moved from design-bible.md on 25 Nov 2026; new finds are added here, not to design-bible.md.
+Dated finds from the layout research (Job A), the weekly winning-ads scan (Job B) and the daily trend intel (Job T, since 28 Nov 2026; its lasting moves go to trend-intel.md). Newest on top. Visual references only, never assets to copy. Moved from design-bible.md on 25 Nov 2026; new finds are added here, not to design-bible.md.
 
 ## 27 Nov 2026 - LinkedIn to design
 

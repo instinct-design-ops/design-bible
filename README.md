@@ -6,7 +6,7 @@ Design rules for Shresht's ad design workflow and own brand. Newer dated decisio
 
 1. **Always:** [design-bible.md](design-bible.md), the rules in force, each with an ID (W-04, Q-02, L-24...). A few long rules keep their full text in [ops/](ops/) (Studio Desk) and [own-brand/](own-brand/) (Behance, LinkedIn posts).
 2. **For client work:** that client's file in [clients/](clients/): [Alpha One Labs](clients/alpha-one-labs.md), [Lucori](clients/lucori.md). It wins over design-bible.md where they overlap.
-3. **When concepting:** [reference/](reference/): layout studies, ad psychology, Meta platform facts, the research feed, approved and style directions, reel studies, and the images the layout studies link.
+3. **When concepting:** [reference/](reference/): layout studies, ad psychology, Meta platform facts, the research feed, the trend-intel playbook, approved and style directions, reel studies, and the images the layout studies link.
 4. **Only to understand why:** [history/](history/): changelog, rejected directions and superseded rules. The Bible as it stood before the 25 Nov 2026 split is in git: `git show 1df581f:history/design-bible-before-split-2026-11-25.md`.
 
 ## Public copy

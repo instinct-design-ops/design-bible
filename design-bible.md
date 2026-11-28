@@ -9,7 +9,7 @@ The rules in force for Shresht's ads and own-brand work. Every rule here applies
 | `clients/` | One file per client: brand facts, logo and type specifics, product locks, claims register, review anchors. [Alpha One Labs](clients/alpha-one-labs.md) · [Lucori](clients/lucori.md) |
 | `ops/` | [Studio Desk and Studio Link](ops/studio-desk.md): the full W-09, W-13 and W-14 |
 | `own-brand/` | [Behance](own-brand/behance.md): the full B-04, B-05 and B-08 · [LinkedIn posts](own-brand/linkedin.md): the full B-06 and B-07 |
-| `reference/` | Research that informs the rules: [layout studies](reference/layout-studies.md), [ad psychology](reference/ad-psychology.md), [Meta platform facts](reference/meta-platform-facts.md), [research feed](reference/research-feed.md), [approved directions](reference/approved-directions.md), [style directions](reference/style-directions.md), [reel studies](reference/reel-studies.md). Images the layout studies link are in `reference/images/` |
+| `reference/` | Research that informs the rules: [layout studies](reference/layout-studies.md), [ad psychology](reference/ad-psychology.md), [Meta platform facts](reference/meta-platform-facts.md), [research feed](reference/research-feed.md), [trend intel](reference/trend-intel.md), [approved directions](reference/approved-directions.md), [style directions](reference/style-directions.md), [reel studies](reference/reel-studies.md). Images the layout studies link are in `reference/images/` |
 | `history/` | [Changelog](history/changelog.md), [rejected directions](history/rejected-directions.md), [superseded rules](history/superseded-rules.md) |
 
 ## H · How this Bible works
@@ -40,6 +40,7 @@ The rules in force for Shresht's ads and own-brand work. Every rule here applies
 - **W-12** · 22 Nov 2026. Instinct executes ad batches under these rules (Shresht handed batch execution back on 21 Nov).
 - **W-13** · 26 Nov 2026, from Shresht. Claude sessions talk to each other through Studio Link (Studio Desk's thread and task queue), not through Shresht. Each session reads the thread at the start of work and before finishing, and answers what is addressed to its machine; approvals still go through W-09. Message and task fields: [ops/studio-desk.md](ops/studio-desk.md).
 - **W-14** · 26 Nov 2026, from Shresht. A job that needs one of Shresht's own machines (his logged-in Chrome, local files, desktop apps) goes straight to that machine's Claude through Studio Link without asking him first, then he gets one line saying which machine got it. The PC first; the Mac when it is active, the PC doesn't answer, or the PC can't do it. How to send it: [ops/studio-desk.md](ops/studio-desk.md).
+- **W-15** · 28 Nov 2026, from Shresht. Never design from stock habits. Before concepting any ad, read [reference/trend-intel.md](reference/trend-intel.md), the playbook the daily trend-intel job keeps from trending Behance work, award-winning ads and the top agencies and designers ("Whenever you design an ad in the future, you always use those points"). Each concept uses at least one "in force" move from it, adapted to the brief, or the design-read receipt (W-02) says why none fits. Brand rules, the client file and the brief still win; a move that clashes with a rule is not used.
 
 ## G · Generation and tools
 
