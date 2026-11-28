@@ -99,7 +99,7 @@ A frame that fails any rule in this section does not ship to Shresht.
   - Low-key light on a dark, tactile surface (linen, stone, fabric), a rim light in the brand's accent colour tracing the product's edges, and soft out-of-focus bokeh that sets the context (the city at night for Solace).
   - Headline emphasis by weight only: a Light set-up line and an ExtraBold pay-off line in one light colour, the widest line filling the measure.
   - The accent colour is used sparingly and repeated: wordmark, rim light, CTA pill.
-  - The look isn't a signature device on its own: each ad still adds one (V-04), and 9:16 scales the product up to use its height.
+  - The look isn't a signature device on its own: each ad still adds one (V-04), and 9:16 scales the product up to use its height. The device never covers the type (L-30): a shape behind the product that the product breaks out of works with this look.
   - Reference set: reference/style-directions.md.
 
 ## L · Layout
@@ -153,6 +153,7 @@ A frame that fails any rule in this section does not ship to Shresht.
 - **L-27** · 23 Nov 2026. The scan order is designed: headline, then visual, then subline, then CTA and logo. Check with a 2-second flash test.
 - **L-28** · 24 Nov 2026. Hook weight beats hook size: set hooks in bold to black weights; light weights are for supporting lines.
 - **L-29** · 21 and 23 Nov 2026. Headlines on red, dark or black grounds go all white. Flat red shapes get texture or pattern, never a bare flat fill.
+- **L-30** · 28 Nov 2026, from Shresht ("The text is not readable enough... You don't want to overlay text. That's a design, but this won't work for an ad", on the Solace test, where the case lid covered about 40% of the headline's letters). Nothing overlays the headline or any copy in an ad: no product, prop or shape crossing the letters, however intentional. Readability comes first. For depth, put a shape behind the product and let the product break out of it (his suggestion: a shape behind the lid for a 3D look), and keep the type clear above it.
 
 ## C · Copy
 
