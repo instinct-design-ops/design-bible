@@ -2,6 +2,7 @@
 
 The running record of every Bible change. Newest on top. Moved from design-bible.md on 25 Nov 2026; entries before that date are unchanged.
 
+- 28 Nov 2026, night. Trend intel, first Job T run: 8 Behance findings added to reference/research-feed.md; 7 new "watching" moves and 2 clashes in reference/trend-intel.md (miniature world on the body seen twice). No rules changed. Added by Claude on the Mac.
 - 28 Nov 2026, night. New W-15, from Shresht: never design from stock habits; every concept draws on reference/trend-intel.md, a new playbook of current moves from trending Behance work, award-winning ads and top agencies and designers, kept by a new daily trend-intel job (Job T, 07:00 IST every day). Links added in the folder table and README. Added by Claude on the Mac.
 - 28 Nov 2026, evening. New L-30, from Shresht: nothing overlays the headline or copy in an ad (the Solace case lid over the pay-off line was "a design, but this won't work for an ad"); depth comes from a shape behind the product that it breaks out of. V-10 updated to point to it. Added by Claude on the Mac.
 - 28 Nov 2026, evening. New V-10, from Shresht: the dark product-hero look of the Solace sleep-earbuds test ad (round 2, made by Antigravity under Claude's QC) is a standing approved style direction for future static ads ("designs like this are made in the future too"). Added by Claude on the Mac.
