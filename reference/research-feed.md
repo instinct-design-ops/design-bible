@@ -2,6 +2,13 @@
 
 Dated finds from the layout research (Job A), the weekly winning-ads scan (Job B) and the daily trend intel (Job T, since 28 Nov 2026; its lasting moves go to trend-intel.md). Newest on top. Visual references only, never assets to copy. Moved from design-bible.md on 25 Nov 2026; new finds are added here, not to design-bible.md.
 
+## 28 Nov 2026 - Mood-board verdicts
+
+- 28 Nov 2026. Mood board: Spacegoods "No More Brain Fog", a dense offer stack that ran 230 days - rejected. Reason: "nops". Takeaway: a long run time does not make a dense offer stack his style; one offer, one mass.
+- 28 Nov 2026. Mood board: Spacegoods "FOCUS. ENERGY. CALM.", retro OS window as the device - lukewarm. Reason: "okaay". Takeaway: UI chrome reads as a gimmick; use it only when the brief is about the interface.
+- 28 Nov 2026. Mood board: Native Pet sticky-note BOGO on a real snapshot - approved. Reason: "nice". Takeaway: lo-fi native (handwritten notes, candid photo) is now 3 of 3 with him; it can carry an offer for any DTC client when the deadline is real.
+- 28 Nov 2026. Lane read across rounds 2-14 (Instinct's summary): lo-fi native 3 of 3, clean designed systems 3 of 3, row and connector systems liked; lukewarm on serif headline-led editorial, toggle grids, quiet macro texture and plain packshots.
+
 ## 28 Nov 2026 - Trend intel
 
 Job T, Saturday deep dive on Behance (Most Appreciated this week and the Advertising gallery). All four projects are makers' concept or spec work; proof is Behance appreciation. Visual references only, never assets to copy. Lasting moves are in trend-intel.md.
