@@ -10,21 +10,21 @@ Studied about 90 ads across Subyect's public work (subyect.com ad wall and proje
 
 - 23 Nov 2026. Center axis with orbiting proof: product dead center; label pills, ingredients or stats float around it on implied rails or a circle (Subyect Mobile Vikings: floating label pills on rails around the phone; Roveir Graymatter: radial ingredient wheel, wedges around the bottle with monospace labels on the circle). The orbit turns specs into composition.
 
-  ![Mobile Vikings: floating label pills on rails around the product](../references/mobile-vikings-pills-on-rails.png)
+  ![Mobile Vikings: floating label pills on rails around the product](images/mobile-vikings-pills-on-rails.png)
 
-  ![Graymatter: radial ingredient wheel, wedges around the pack](../references/graymatter-ingredient-wheel.png)
+  ![Graymatter: radial ingredient wheel, wedges around the pack](images/graymatter-ingredient-wheel.png)
 
 - 23 Nov 2026. A diagram can be the whole layout: Subyect Q-Park runs a decision flowchart down the frame and the green outcome box doubles as the CTA; Roveia Verve's weight-loss ad is a three-step vertical timeline with numbered cards alternating sides. The process itself becomes the layout.
 
-  ![Q-Park: decision flowchart as the whole layout](../references/q-park-flowchart.png)
+  ![Q-Park: decision flowchart as the whole layout](images/q-park-flowchart.png)
 
 - 23 Nov 2026. Mirrored splits sell contrast: split the canvas and repeat the same module on each side - blurred competitor vs sharp product (Subyect Hears: label pill, star row and quote on each half), or old-me struck through vs new-me (Roveia Verve). Symmetry makes the comparison readable at a glance.
 
-  ![Hears: mirrored split, blurred competitor vs sharp product](../references/hears-mirrored-split.png)
+  ![Hears: mirrored split, blurred competitor vs sharp product](images/hears-mirrored-split.png)
 
 - 23 Nov 2026. Panel vs photo split, roughly 40/60: a flat-color text panel against a full-height lifestyle photo (Subyect Amacx: navy panel with headline, chips and CTA against the athlete shot). The panel informs, the photo feels.
 
-  ![Amacx: flat-color text panel against a full-height photo](../references/amacx-panel-split.png)
+  ![Amacx: flat-color text panel against a full-height photo](images/amacx-panel-split.png)
 
 - 23 Nov 2026. Strikethrough marks the old: old price or old state struck through beside the new (Roveia Wellvia: $259 struck to $129.99; Roveia Verve: symptoms struck under old-me). The strike carries the comparison; no extra copy needed.
 
@@ -44,15 +44,15 @@ Studied about 90 ads across Subyect's public work (subyect.com ad wall and proje
 
 - 23 Nov 2026. The product gets a stage: a pedestal, soft shadow, glow or ground plane, never floating raw on the background (Subyect Hears pedestal; Roveir Graymatter v9, where the ingredient cascade sits behind the headline and the product stands on a baseline).
 
-  ![Graymatter v9: center stage with a ground plane](../references/graymatter-v9-center-stage.png)
+  ![Graymatter v9: center stage with a ground plane](images/graymatter-v9-center-stage.png)
 
 - 23 Nov 2026. Crop a repeatable module off-canvas: Roveir Odin bleeds a grid of integration logo cards off the bottom edge, implying an endless list; a partial grid reads bigger than a complete one.
 
-  ![Odin: integration card grid bleeding off the canvas edge](../references/odin-off-canvas-grid.png)
+  ![Odin: integration card grid bleeding off the canvas edge](images/odin-off-canvas-grid.png)
 
 - 23 Nov 2026. Let one prop carry the concept: Roveia Wellvia's crossed-out syringe on foliage with a short headline and no feature list. A symbolic object plus a few words beats a spec sheet.
 
-  ![Wellvia: one symbolic prop carries the concept](../references/wellvia-concept-prop.png)
+  ![Wellvia: one symbolic prop carries the concept](images/wellvia-concept-prop.png)
 
 Strongest reference frames from this pass: Subyect Mobile Vikings (pills on rails), Q-Park (flowchart), Hears w20 (mirrored split), Amacx (panel split); Roveir Graymatter (radial wheel and the v9 center-stage), Odin (off-canvas grid); Roveia Wellvia (conceptual prop). The best eight went to Shresht as images and are committed under references/, each linked above next to its matching rule.
 

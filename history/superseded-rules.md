@@ -1,8 +1,37 @@
 # Superseded rules
 
-Every rule that a newer dated rule replaced, kept word for word so the reasoning is never lost. Do not apply anything on this page. The rule in force is in design-bible.md or the client file named under each entry.
+Every rule that a newer dated rule replaced, kept word for word so the reasoning is never lost. Do not apply anything on this page. The rule in force is in design-bible.md (or its full text in ops/ or own-brand/) or the client file named under each entry.
 
 When a rule is replaced: move the old text here (newest first), say what replaced it and where the live version is, and add a changelog line.
+
+## Compaction: rule date lines, B-08 cover take, H-08 and README public copy (28 Nov 2026)
+
+The Bible was compacted on 28 Nov 2026. No rule changed meaning. W-09, W-13, W-14, B-04 to B-08 now keep their full text in ops/studio-desk.md, own-brand/behance.md and own-brand/linkedin.md, word for word, with a short version in design-bible.md. The wording below is what the compaction replaced.
+
+Original date lines (each now shows only its latest date):
+
+> **G-01** · 25 Nov 2026, from Shresht; own-work options narrowed 27 Nov 2026 (G-08).
+
+> **G-02** · 23 Nov, 25 Nov and 26 Nov 2026, from Shresht.
+
+> **G-07** · 21 Nov 2026, settled 27 Nov 2026 from Shresht.
+
+> **B-05** · 25 Nov 2026; cover, grounds and type updated 27 Nov 2026 from Shresht's favourite project (B-08); house colour, then heavy cover type, set 27 Nov 2026 from Shresht.
+
+Original B-08 bullets (the correction is now folded into the take, in own-brand/behance.md):
+
+> - Take: one expressive hand-made word on one flat, textured colour as the cover; hand-made type over a technical texture (grid, blueprint) for warmth; a ghosted giant word behind for depth; fixed bookends (cover, intro, contents, identical chapter dividers, a close that mirrors the cover) with each project free inside; context mock-ups for anything that lives in the world, flats only for flat things.
+> - 27 Nov 2026 update: for the cover word he wants a heavy font on a full card, not a script (B-05). The rest of the take stands.
+
+Original H-08:
+
+> **H-08** · 21 Nov 2026. This repository is public. Keep client names and design rules; omit account emails, credentials, private client Figma or file links, the Studio Desk link and internal screenshots.
+
+Original README "Public copy" section (merged into H-08):
+
+> This repository is publicly viewable. It contains a sanitized text version of the internal Design Bible. Keep client names and design rules. Omit account emails, credentials, private client Figma or file links, the Studio Desk link, and internal screenshots. The internal Google Doc remains the full version. Apply the same checks before every update.
+
+The pre-split snapshot file (history/design-bible-before-split-2026-11-25.md, 14,000 words) was removed from the working tree; git keeps it word for word: `git show 1df581f:history/design-bible-before-split-2026-11-25.md`. The images folder `references/` became `reference/images/`.
 
 ## Generator ask options, Magnific line and the Gemini watermark question (27 Nov 2026, retro)
 
