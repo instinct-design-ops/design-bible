@@ -93,6 +93,13 @@ A frame that fails any rule in this section does not ship to Shresht.
   - Palette: orange, black and white as the base, blue, green and purple as small accents.
   - A retro-UI tab bar with the current step highlighted can work as a progress device.
   - One short caption pill and one big headline per frame: the pill carries the sentence, the headline carries the idea.
+- **V-10** · 28 Nov 2026, from Shresht ("I really liked this design style... it's the right direction... designs like this are made in the future too", on the Solace sleep-earbuds test ad, round 2). Standing approved style direction for static ads, static only: the dark product hero. Use it where it fits the client's brand (V-01). He said it can still be improved, so it's a direction, not a finished template.
+  - The product is the hero: a sharp, macro-feel render, about 60% of the frame width or more, recognisable at thumbnail size.
+  - The photo is the ground, full bleed: no card, arch or frame around it. Type sits in the photo's quiet dark zone, with a soft, editable gradient only where contrast needs it.
+  - Low-key light on a dark, tactile surface (linen, stone, fabric), a rim light in the brand's accent colour tracing the product's edges, and soft out-of-focus bokeh that sets the context (the city at night for Solace).
+  - Headline emphasis by weight only: a Light set-up line and an ExtraBold pay-off line in one light colour, the widest line filling the measure.
+  - The accent colour is used sparingly and repeated: wordmark, rim light, CTA pill.
+  - The look isn't a signature device on its own: each ad still adds one (V-04), and 9:16 scales the product up to use its height.
   - Reference set: reference/style-directions.md.
 
 ## L · Layout
