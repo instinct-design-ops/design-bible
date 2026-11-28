@@ -13,7 +13,7 @@ The rules in force for how Shresht's ads and own-brand work are designed. This f
 
 ## H · How this Bible works
 
-- **H-01** · 21 Nov 2026. Updated every day, or whenever design is discussed, whichever comes first. Every change gets a dated line at the top of history/changelog.md.
+- **H-01** · 21 Nov 2026. Updated every day, or whenever design is discussed, whichever comes first. Every change gets a dated line at the top of history/changelog.md; changelog lines older than 2 days are deleted (H-09).
 - **H-02** · 25 Nov 2026, from Shresht. New design rules from Shresht land straight away: Claude adds, commits and pushes them without asking first.
 - **H-03** · 25 Nov 2026. Only current rules live here. When a new rule replaces one, edit the live rule to its new form, move the old wording to history/superseded-rules.md with what replaced it, and add a changelog line. Never leave "replaced by" chains in this file.
 - **H-04** · 25 Nov 2026. Where a new item goes: a rule for every job goes here; a rule for one client goes in its `clients/` file (a new client gets a new file with the same sections as Alpha One's); research finds go in reference/research-feed.md; a rejected round goes in history/rejected-directions.md with the rules it left.
@@ -21,6 +21,7 @@ The rules in force for how Shresht's ads and own-brand work are designed. This f
 - **H-06** · 21 Nov 2026. Feedback is logged visually: the commented frame's screenshot plus the note, so the mistake is seen, not paraphrased. Screenshots stay in the internal Doc; this public repo carries the text only.
 - **H-07** · 22 Nov 2026. Weekly rule fold: keep a dated log of Shresht's feedback, fold recurring lessons into these rules weekly, and report the fold.
 - **H-08** · 21 Nov 2026. This repository is public. Keep client names and design rules; omit account emails, credentials, private client Figma or file links, the Studio Desk link and internal screenshots.
+- **H-09** · 28 Nov 2026, from Shresht. Notes expire 2 days after posting: changelog lines, research-feed finds, status notes, agent chatter. Durable rules, lessons, client rules, rejected directions and superseded rules stay. Reminders and open to-dos stay until done, marked KEEP with a reason.
 
 ## W · Workflow
 
